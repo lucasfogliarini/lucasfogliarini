@@ -3,10 +3,11 @@
 - 🔭 Estou trabalhando na [DBC Company](https://www.dbccompany.com.br/) alocado para [Bem Promotora](https://www.bempromotora.com.br/)
 - 🌱 Frequentemente estudo Engenharia de Software e [Gestão de TI na Unisinos](https://ead.unisinos.br/cursos-graduacao/gestao-da-tecnologia-da-informacao)
 - 🌍 Projetei e desenvolvi meu próprio app que realiza encontros de tecnologia e empreendedorismo [bora.work](https://bora.work)
-- ♟️ Jogo muito [Xadrez](https://chess.com) nas horas vagas
+- ♟️ Jogo muito Xadrez nas horas vagas. [Bora jogar?](https://chess.com/lucasfogliarini)
 - 💬 Gosto de conversar sobre qualquer assunto
 
 ## Repositórios
+Essa é minha coleção diversificada de repositórios que refletem minha experiência e habilidades em desenvolvimento de software, especialmente em C# e JavaScript.
 
 ### APIs
 - [BoraApi](https://github.com/lucasfogliarini/bora-api) (C#)
@@ -38,12 +39,12 @@
 ### Message Brokers
 - [Azure Service Bus](https://github.com/lucasfogliarini/azureservicebus) (C#)
 - [rabbitmq](https://github.com/lucasfogliarini/rabbitmq) (C#)
-- 
+
 ### Azure Functions
 - [BoraEventsSyncFunctions](https://github.com/lucasfogliarini/BoraEventsSyncFunctions) (privado atualmente) (C#)
 - [Azure Service Bus](https://github.com/lucasfogliarini/azureservicebus) (C#)
 
-### Security
+### Segurança
 - [Security.Cryptography](https://github.com/lucasfogliarini/Security.Cryptography) (C#)
 - [AspNetCore.Authorization](https://github.com/lucasfogliarini/AspNetCore.Authorization) (C#)
 
@@ -52,7 +53,7 @@
 
 ### MVC
 - [SpotifyGuess](https://github.com/lucasfogliarini/SpotifyGuess) (C#)
-- [NiboBankConciliator](https://github.com/lucasfogliarini/NiboBankConciliator) (C#)
+- [NiboBankConciliator](https://github.com/lucasfogliarini/NiboBankConciliator) (C#)  
 
 ### Console App
 - [Chess](https://github.com/lucasfogliarini/chess) (C#)
