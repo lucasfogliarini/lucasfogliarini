@@ -27,9 +27,8 @@ Essa é minha coleção diversificada de repositórios que refletem minha experi
 - [DependencyInjection](https://github.com/lucasfogliarini/DependencyInjection) (C#)
 - [NotificationPattern](https://github.com/lucasfogliarini/notification-pattern) (C#)
 
-### Plugins e Extensões
-- [Nu](https://github.com/lucasfogliarini/nu) (js, chrome extension)
-- [gps](https://github.com/lucasfogliarini/gps) (js)
+### Telemetria
+- [Telemetry](https://github.com/lucasfogliarini/Telemetry) (C#)
 
 ### Pacotes
 - [NuClient](https://github.com/lucasfogliarini/NuClient) (C#, nuget)
@@ -43,6 +42,10 @@ Essa é minha coleção diversificada de repositórios que refletem minha experi
 ### Azure Functions
 - [BoraEventsSyncFunctions](https://github.com/lucasfogliarini/BoraEventsSyncFunctions) (privado atualmente) (C#)
 - [Azure Service Bus](https://github.com/lucasfogliarini/azureservicebus) (C#)
+
+### Plugins e Extensões
+- [Nu](https://github.com/lucasfogliarini/nu) (js, chrome extension)
+- [gps](https://github.com/lucasfogliarini/gps) (js)
 
 ### Segurança
 - [Security.Cryptography](https://github.com/lucasfogliarini/Security.Cryptography) (C#)
