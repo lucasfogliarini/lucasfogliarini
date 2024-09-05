@@ -7,7 +7,8 @@
 - 💬 Gosto de conversar sobre qualquer assunto
 
 ## Repositórios
-Essa é minha coleção diversificada de repositórios que refletem minha experiência e habilidades em desenvolvimento de software, especialmente em C# e JavaScript.
+Sou muito adepto a frase ["Talk is cheap. Show me the code."](https://chatgpt.com/share/ebca0102-d6c8-4d46-b103-79b84f36e5de)  
+Então é importante apresentar minha coleção diversificada de repositórios que refletem minha experiência e habilidades em desenvolvimento de software, especialmente em C# e JavaScript.
 
 ### APIs
 - [BoraApi](https://github.com/lucasfogliarini/bora-api) (C#)
