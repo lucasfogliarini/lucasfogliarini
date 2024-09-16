@@ -45,7 +45,6 @@ Então é importante apresentar minha coleção diversificada de repositórios q
 - [Azure Service Bus](https://github.com/lucasfogliarini/azureservicebus) (C#)
 
 ### Plugins e Extensões
-- [Nu](https://github.com/lucasfogliarini/nu) (js, chrome extension)
 - [gps](https://github.com/lucasfogliarini/gps) (js)
 
 ### Segurança
