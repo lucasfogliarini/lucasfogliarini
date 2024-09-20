@@ -58,6 +58,9 @@ Então é importante apresentar minha coleção diversificada de repositórios q
 - [SpotifyGuess](https://github.com/lucasfogliarini/SpotifyGuess) (C#)
 - [NiboBankConciliator](https://github.com/lucasfogliarini/NiboBankConciliator) (C#)  
 
+### Windows Forms
+- [MercadinhoBem](https://github.com/lucasfogliarini/MercadinhoBem) (C#)
+  
 ### Console App
 - [Chess](https://github.com/lucasfogliarini/chess) (C#)
 - [controle-financeiro](https://github.com/lucasfogliarini/controle-financeiro) (C#)
