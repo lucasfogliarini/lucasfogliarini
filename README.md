@@ -48,6 +48,7 @@ Então é importante apresentar minha coleção diversificada de repositórios q
 - [gps](https://github.com/lucasfogliarini/gps) (js)
 
 ### Segurança
+- [MicrosoftIdentityWeb](https://github.com/lucasfogliarini/MicrosoftIdentityWeb)
 - [Security.Cryptography](https://github.com/lucasfogliarini/Security.Cryptography) (C#)
 - [AspNetCore.Authorization](https://github.com/lucasfogliarini/AspNetCore.Authorization) (C#)
 
