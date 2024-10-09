@@ -28,7 +28,6 @@ Então é importante apresentar minha coleção diversificada de repositórios q
 - [DDD Bem Promotora](https://github.com/lucasfogliarini/bem) (C#)
 - [DependencyInjection](https://github.com/lucasfogliarini/DependencyInjection) (C#)
 - [DomainDrivenDesign](https://github.com/lucasfogliarini/DomainDrivenDesign) (C#)
-- [NotificationPattern](https://github.com/lucasfogliarini/notification-pattern) (C#)
 
 ### Telemetria
 - [Telemetry](https://github.com/lucasfogliarini/Telemetry) (C#)
