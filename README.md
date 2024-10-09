@@ -25,6 +25,7 @@ Então é importante apresentar minha coleção diversificada de repositórios q
 
 ### Design Patterns
 - [DesignPatterns](https://github.com/lucasfogliarini/DesignPatterns) (C#)
+- [DDD Bem Promotora](https://github.com/lucasfogliarini/bem) (C#)
 - [DependencyInjection](https://github.com/lucasfogliarini/DependencyInjection) (C#)
 - [DomainDrivenDesign](https://github.com/lucasfogliarini/DomainDrivenDesign) (C#)
 - [NotificationPattern](https://github.com/lucasfogliarini/notification-pattern) (C#)
