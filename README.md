@@ -23,7 +23,7 @@ Então é importante apresentar minha coleção diversificada de repositórios q
 - [marvel-heroes](https://github.com/lucasfogliarini/marvel-heroes) (angular 5)
 - [marvel_heroes_ng1](https://github.com/lucasfogliarini/marvel_heroes_ng1) (angular 1)
 
-### Design Patterns
+### Design de Software
 - [DesignPatterns](https://github.com/lucasfogliarini/DesignPatterns) (C#)
 - [DDD Bem Promotora](https://github.com/lucasfogliarini/bem) (C#)
 - [DependencyInjection](https://github.com/lucasfogliarini/DependencyInjection) (C#)
