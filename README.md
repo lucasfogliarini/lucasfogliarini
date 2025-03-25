@@ -10,6 +10,9 @@
 Sou muito adepto a frase ["Talk is cheap. Show me the code."](https://chatgpt.com/share/ebca0102-d6c8-4d46-b103-79b84f36e5de)  
 Então é importante apresentar minha coleção diversificada de repositórios que refletem minha experiência e habilidades em desenvolvimento de software, especialmente em C# e JavaScript.
 
+### Systems
+- [BemPropostas.System](https://github.com/lucasfogliarini/BemPropostas.System)(C#, DDD, CQS, C4)
+
 ### APIs
 - [BoraApi](https://github.com/lucasfogliarini/bora-api) (C#)
 - [DevInHouse2022](https://github.com/lucasfogliarini/DevInHouse2022) (C#)
@@ -25,9 +28,7 @@ Então é importante apresentar minha coleção diversificada de repositórios q
 
 ### Design de Software
 - [DesignPatterns](https://github.com/lucasfogliarini/DesignPatterns) (C#)
-- [DDD Bem Promotora](https://github.com/lucasfogliarini/bem) (C#)
 - [DependencyInjection](https://github.com/lucasfogliarini/DependencyInjection) (C#)
-- [DomainDrivenDesign](https://github.com/lucasfogliarini/DomainDrivenDesign) (C#)
 
 ### Telemetria
 - [Telemetry](https://github.com/lucasfogliarini/Telemetry) (C#)
