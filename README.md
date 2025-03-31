@@ -11,7 +11,7 @@ Sou muito adepto a frase ["Talk is cheap. Show me the code."](https://chatgpt.co
 Então é importante apresentar minha coleção diversificada de repositórios que refletem minha experiência e habilidades em desenvolvimento de software, especialmente em C# e JavaScript.
 
 ### Systems
-- [BoraCotacoes](https://github.com/lucasfogliarini/BoraCotacoes) (C#, [DDD](https://chatgpt.com/?q=DomainDrivenDesign), [CQRS](https://chatgpt.com/?q=CQRS), [C4](https://chatgpt.com/?q=C4Model))
+- [BoraCotacoes](https://github.com/lucasfogliarini/BoraCotacoes) (C#, [DDD](https://chatgpt.com/?q=DomainDrivenDesign), [CQRS](https://chatgpt.com/?q=CQRS), [Microservice](https://chatgpt.com/?q=microserviço) [C4](https://chatgpt.com/?q=C4Model))
 
 ### APIs
 - [BoraApi](https://github.com/lucasfogliarini/bora-api) (C#)
