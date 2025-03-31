@@ -11,7 +11,7 @@ Sou muito adepto a frase ["Talk is cheap. Show me the code."](https://chatgpt.co
 Então é importante apresentar minha coleção diversificada de repositórios que refletem minha experiência e habilidades em desenvolvimento de software, especialmente em C# e JavaScript.
 
 ### Systems
-- [BemPropostas.System](https://github.com/lucasfogliarini/BemPropostas.System)(C#, DDD, CQS, C4)
+- [BoraCotacoes](https://github.com/lucasfogliarini/BoraCotacoes) (C#, DDD, CQS, C4)
 
 ### APIs
 - [BoraApi](https://github.com/lucasfogliarini/bora-api) (C#)
