@@ -38,10 +38,6 @@ Então é importante apresentar minha coleção diversificada de repositórios q
 - [Repository.AzureTables](https://github.com/lucasfogliarini/Repository.AzureTables) (C#, nuget)
 - [gps](https://github.com/lucasfogliarini/gps) (js, npm)
 
-### Message Brokers
-- [Azure Service Bus](https://github.com/lucasfogliarini/azureservicebus) (C#)
-- [rabbitmq](https://github.com/lucasfogliarini/rabbitmq) (C#)
-
 ### Azure Functions
 - [BoraEventsSyncFunctions](https://github.com/lucasfogliarini/BoraEventsSyncFunctions) (privado atualmente) (C#)
 - [Azure Service Bus](https://github.com/lucasfogliarini/azureservicebus) (C#)
