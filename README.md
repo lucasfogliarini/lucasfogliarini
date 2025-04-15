@@ -39,8 +39,7 @@ Então é importante apresentar minha coleção diversificada de repositórios q
 - [gps](https://github.com/lucasfogliarini/gps) (js, npm)
 
 ### Azure Functions
-- [BoraEventsSyncFunctions](https://github.com/lucasfogliarini/BoraEventsSyncFunctions) (privado atualmente) (C#)
-- [Azure Service Bus](https://github.com/lucasfogliarini/azureservicebus) (C#)
+- [BoraEventsSyncFunctions](https://github.com/lucasfogliarini/BoraEventsSyncFunctions) (C#)
 
 ### Plugins e Extensões
 - [gps](https://github.com/lucasfogliarini/gps) (js)
