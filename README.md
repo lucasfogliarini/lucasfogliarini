@@ -1,8 +1,8 @@
 ## Olá 👋
 
-- 🔭 Estou trabalhando na [DBC Company](https://www.dbccompany.com.br/) alocado para [Bem Promotora](https://www.bempromotora.com.br/)
-- 🌱 Frequentemente estudo Engenharia de Software e [Gestão de TI na Unisinos](https://ead.unisinos.br/cursos-graduacao/gestao-da-tecnologia-da-informacao)
-- 🌍 Projetei e desenvolvi meu próprio app que realiza encontros de tecnologia e empreendedorismo __bora.work__
+- 👨‍💻 Atuando como Engenheiro de Software e Agilista na [Bem Promotora](https://www.linkedin.com/company/bempromotora/about/), por meio da consultoria [DBC Company](https://www.linkedin.com/company/dbc-company/about/)
+- 📈 Frequentemente estudo Engenharia de Software e [Gestão de TI na Unisinos](https://ead.unisinos.br/cursos-graduacao/gestao-da-tecnologia-da-informacao)
+- 🧠 Liderando o [Bora Tech](https://chat.whatsapp.com/CAzPAdol09sAk63BEJ1Qz0), grupo de tecnologia da comunidade Bora, conectando pessoas via WhatsApp em encontros presenciais para troca de conhecimento, networking e experiências práticas.
 - ♟️ Jogo muito Xadrez nas horas vagas. [Bora jogar?](https://chess.com/member/lucasfogliarini)
 - 💬 Gosto de conversar sobre qualquer assunto
 
