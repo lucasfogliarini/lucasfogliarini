@@ -10,7 +10,7 @@
 Sou muito adepto a frase ["Talk is cheap. Show me the code."](https://chatgpt.com/share/ebca0102-d6c8-4d46-b103-79b84f36e5de)  
 Então é importante apresentar minha coleção diversificada de repositórios que refletem minha experiência e habilidades em desenvolvimento de software, especialmente em C# e JavaScript.
 
-### Systems
+### [Systems](https://chatgpt.com/share/67fe4935-e460-8013-8efa-f4c20c4eb417)
 - [BoraCotacoes](https://github.com/lucasfogliarini/BoraCotacoes) (C#, [DDD](https://chatgpt.com/?q=DomainDrivenDesign), [CQRS](https://chatgpt.com/?q=CQRS), [Microservice](https://chatgpt.com/?q=microserviço), [C4](https://chatgpt.com/?q=C4Model), [IcePanel](https://docs.icepanel.io/features/modelling#the-4-cs-in-c4))
 
 ### APIs
