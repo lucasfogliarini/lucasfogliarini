@@ -4,7 +4,7 @@
 - 📈 Frequentemente estudo Engenharia de Software e [Gestão de TI na Unisinos](https://ead.unisinos.br/cursos-graduacao/gestao-da-tecnologia-da-informacao)
 - 🧠 Liderando o [Bora Tech](https://chat.whatsapp.com/CAzPAdol09sAk63BEJ1Qz0), grupo de tecnologia da comunidade Bora, conectando pessoas via WhatsApp em encontros presenciais para troca de conhecimento, networking e experiências práticas.
 - ♟️ Jogo muito Xadrez nas horas vagas. [Bora jogar?](https://chess.com/member/lucasfogliarini)
-- 🤲 Evangelista em Tecnologia e em [Deus](https://github.com/lucasfogliarini/BoraBiblia/blob/main/README.md#-bora-b%C3%ADblia-novo-testamento-segundo-lucas--fogliarini)
+- 🤲 Evangelista em [Tecnologia](https://github.com/lucasfogliarini/lucasfogliarini/blob/main/Tecnologista.md) e em [Deus](https://github.com/lucasfogliarini/BoraBiblia/blob/main/README.md#-bora-b%C3%ADblia-novo-testamento-segundo-lucas--fogliarini)
 - 💬 Gosto de conversar sobre qualquer assunto
 
 ## Repositórios
