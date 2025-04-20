@@ -4,20 +4,21 @@
 - 📈 Frequentemente estudo Engenharia de Software e [Gestão de TI na Unisinos](https://ead.unisinos.br/cursos-graduacao/gestao-da-tecnologia-da-informacao)
 - 🧠 Liderando o [Bora Tech](https://chat.whatsapp.com/CAzPAdol09sAk63BEJ1Qz0), grupo de tecnologia da comunidade Bora, conectando pessoas via WhatsApp em encontros presenciais para troca de conhecimento, networking e experiências práticas.
 - ♟️ Jogo muito Xadrez nas horas vagas. [Bora jogar?](https://chess.com/member/lucasfogliarini)
-- 🤲 Evangelista em [Tecnologia](https://github.com/lucasfogliarini/lucasfogliarini/blob/main/Tecnologista.md) e em [Deus](https://github.com/lucasfogliarini/BoraBiblia/blob/main/README.md#-bora-b%C3%ADblia-novo-testamento-segundo-lucas--fogliarini)
+- 🤲 Evangelista em [Engenharia de Software](https://github.com/lucasfogliarini/lucasfogliarini/blob/main/Tecnologista.md) e em [Deus](https://github.com/lucasfogliarini/BoraBiblia/blob/main/README.md#-bora-b%C3%ADblia-novo-testamento-segundo-lucas--fogliarini)
 - 💬 Gosto de conversar sobre qualquer assunto
 
 ## Repositórios
 Sou muito adepto a frase ["Talk is cheap. Show me the code."](https://chatgpt.com/share/ebca0102-d6c8-4d46-b103-79b84f36e5de)  
 Então é importante apresentar minha coleção diversificada de repositórios que refletem minha experiência e habilidades em desenvolvimento de software, especialmente em C# e JavaScript.
 
-### [Systems](https://chatgpt.com/share/67fe4935-e460-8013-8efa-f4c20c4eb417)
-- [BoraCotacoes](https://github.com/lucasfogliarini/BoraCotacoes) (C#, [DDD](https://chatgpt.com/?q=DomainDrivenDesign), [CQRS](https://chatgpt.com/?q=CQRS), [Microservice](https://chatgpt.com/?q=microserviço), [C4](https://chatgpt.com/?q=C4Model), [IcePanel](https://docs.icepanel.io/features/modelling#the-4-cs-in-c4))
+### [BoraMorar](https://github.com/lucasfogliarini/BoraMorar) ([DDD](https://chatgpt.com/?q=DomainDrivenDesign))
+- [Systems](https://chatgpt.com/share/67fe4935-e460-8013-8efa-f4c20c4eb417) ([C4](https://chatgpt.com/?q=C4Model))
+  - [BoraCotacoes](https://github.com/lucasfogliarini/BoraCotacoes) ([.NET 8](http://chatgpt.com/?q=.NET%208), [CQRS](https://chatgpt.com/?q=CQRS), [Microservice](https://chatgpt.com/?q=microserviço))
 
 ### APIs
-- [BoraApi](https://github.com/lucasfogliarini/bora-api) (C#)
-- [DevInHouse2022](https://github.com/lucasfogliarini/DevInHouse2022) (C#)
-- [financialtransactions](https://github.com/lucasfogliarini/financialtransactions) (C#)
+- [BoraApi](https://github.com/lucasfogliarini/bora-api) ([.NET 8](http://chatgpt.com/?q=.NET%208))
+- [DevInHouse2022](https://github.com/lucasfogliarini/DevInHouse2022) ([.NET 8](http://chatgpt.com/?q=.NET%208))
+- [financialtransactions](https://github.com/lucasfogliarini/financialtransactions) ([.NET 8](http://chatgpt.com/?q=.NET%208))
 
 ### SPAs (Single Page Applications)
 - [Bora](https://github.com/lucasfogliarini/bora) (Angular)
