@@ -9,7 +9,7 @@
 
 ## Repositórios
 Sou muito adepto a frase ["Talk is cheap. Show me the code."](https://chatgpt.com/share/ebca0102-d6c8-4d46-b103-79b84f36e5de)  
-Então é importante apresentar minha coleção diversificada de repositórios que refletem minha experiência e habilidades em desenvolvimento de software, especialmente em [.NET](http://chatgpt.com/?q=.NET) e [JavaScript](http://chatgpt.com/?q=JavaScript).
+Então é importante apresentar minha coleção diversificada de repositórios que refletem minha experiência e habilidades em Engenharia de Software, especialmente em [.NET](http://chatgpt.com/?q=.NET) e [JavaScript](http://chatgpt.com/?q=JavaScript).
 
 ### [BoraMorar](https://github.com/lucasfogliarini/BoraMorar) ([DDD](https://chatgpt.com/?q=DomainDrivenDesign))
 - [Systems](https://chatgpt.com/share/67fe4935-e460-8013-8efa-f4c20c4eb417) ([C4](https://chatgpt.com/?q=C4Model))
