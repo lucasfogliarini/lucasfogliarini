@@ -1,10 +1,10 @@
 ## Olá 👋
 
 - 👨‍💻 Atuando profissionalmente como [Engenheiro de Software e Agilista](https://github.com/lucasfogliarini/lucasfogliarini/blob/main/Tecnologista.md) na [Bem Promotora](https://www.linkedin.com/company/bempromotora/about/), por meio da consultoria [DBC Company](https://www.linkedin.com/company/dbc-company/about/)
-- 📈 Estudando [Engenharia de Software](https://github.com/lucasfogliarini/lucasfogliarini/blob/main/Tecnologista.md) e [Gestão de TI na Unisinos](https://ead.unisinos.br/cursos-graduacao/gestao-da-tecnologia-da-informacao)
+- 🎓 Estudando [Engenharia de Software](https://github.com/lucasfogliarini/lucasfogliarini/blob/main/Tecnologista.md) e [Gestão de TI na Unisinos](https://ead.unisinos.br/cursos-graduacao/gestao-da-tecnologia-da-informacao)
 - 🧠 Liderando o [Bora Tech](https://chat.whatsapp.com/CAzPAdol09sAk63BEJ1Qz0), grupo de tecnologia da comunidade Bora, conectando pessoas via WhatsApp em encontros presenciais para troca de conhecimento, networking e experiências práticas.
 - ♟️ Jogando muito Xadrez nas horas vagas. [Bora jogar?](https://chess.com/member/lucasfogliarini)
-- 🎓 Formando Mentes e Corações: [Engenharia de Software](https://github.com/lucasfogliarini/lucasfogliarini/blob/main/Tecnologista.md) e o [Ministério de Jesus Cristo](https://github.com/lucasfogliarini/BoraBiblia/blob/main/README.md)
+- 🕯️Formando Mentes e Corações: [Engenharia de Software](https://github.com/lucasfogliarini/lucasfogliarini/blob/main/Tecnologista.md) e o [Ministério de Jesus Cristo](https://github.com/lucasfogliarini/BoraBiblia/blob/main/README.md)
 - 💬 Conversando sempre sobre qualquer assunto
 
 ## Repositórios
