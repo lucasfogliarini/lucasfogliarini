@@ -1,15 +1,15 @@
 ## Olá 👋
 
-- 👨‍💻 Atuando como Engenheiro de Software e Agilista na [Bem Promotora](https://www.linkedin.com/company/bempromotora/about/), por meio da consultoria [DBC Company](https://www.linkedin.com/company/dbc-company/about/)
-- 📈 Frequentemente estudo Engenharia de Software e [Gestão de TI na Unisinos](https://ead.unisinos.br/cursos-graduacao/gestao-da-tecnologia-da-informacao)
+- 👨‍💻 Atuando profissionalmente como [Engenheiro de Software e Agilista](https://github.com/lucasfogliarini/lucasfogliarini/blob/main/Tecnologista.md) na [Bem Promotora](https://www.linkedin.com/company/bempromotora/about/), por meio da consultoria [DBC Company](https://www.linkedin.com/company/dbc-company/about/)
+- 📈 Estudando [Engenharia de Software](https://github.com/lucasfogliarini/lucasfogliarini/blob/main/Tecnologista.md) e [Gestão de TI na Unisinos](https://ead.unisinos.br/cursos-graduacao/gestao-da-tecnologia-da-informacao)
 - 🧠 Liderando o [Bora Tech](https://chat.whatsapp.com/CAzPAdol09sAk63BEJ1Qz0), grupo de tecnologia da comunidade Bora, conectando pessoas via WhatsApp em encontros presenciais para troca de conhecimento, networking e experiências práticas.
-- ♟️ Jogo muito Xadrez nas horas vagas. [Bora jogar?](https://chess.com/member/lucasfogliarini)
-- 🤲 Evangelista na [Engenharia de Software](https://github.com/lucasfogliarini/lucasfogliarini/blob/main/Tecnologista.md) e no [Ministério de Jesus Cristo](https://github.com/lucasfogliarini/BoraBiblia/blob/main/README.md)
-- 💬 Gosto de conversar sobre qualquer assunto
+- ♟️ Jogando muito Xadrez nas horas vagas. [Bora jogar?](https://chess.com/member/lucasfogliarini)
+- 🎓 Formando Mentes e Corações: [Engenharia de Software](https://github.com/lucasfogliarini/lucasfogliarini/blob/main/Tecnologista.md) e o [Ministério de Jesus Cristo](https://github.com/lucasfogliarini/BoraBiblia/blob/main/README.md)
+- 💬 Conversando sempre sobre qualquer assunto
 
 ## Repositórios
 Sou muito adepto a frase ["Talk is cheap. Show me the code."](https://chatgpt.com/share/ebca0102-d6c8-4d46-b103-79b84f36e5de)  
-Então é importante apresentar minha coleção diversificada de repositórios que refletem minha experiência e habilidades em Engenharia de Software, especialmente em [.NET](http://chatgpt.com/?q=.NET) e [JavaScript](http://chatgpt.com/?q=JavaScript).
+Então é importante apresentar minha coleção diversificada de repositórios que refletem minha experiência e habilidades em [Engenharia de Software](https://github.com/lucasfogliarini/lucasfogliarini/blob/main/Tecnologista.md), especialmente em [.NET](http://chatgpt.com/?q=.NET) e [JavaScript](http://chatgpt.com/?q=JavaScript).
 
 ### [BoraMorar](https://github.com/lucasfogliarini/BoraMorar) ([DDD](https://chatgpt.com/?q=DomainDrivenDesign))
 - [Systems](https://chatgpt.com/share/67fe4935-e460-8013-8efa-f4c20c4eb417) ([C4](https://chatgpt.com/?q=C4Model))
