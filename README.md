@@ -1,4 +1,4 @@
-## Olá 👋
+## Olá 👋, Eu sou Lucas Fogliarini Pedroso e atualmente estou ..
 
 - 👨‍💻 Atuando profissionalmente como [Engenheiro de Software e Agilista](https://github.com/lucasfogliarini/lucasfogliarini/blob/main/Tecnologista.md) na [Bem Promotora](https://www.linkedin.com/company/bempromotora/about/), por meio da consultoria [DBC Company](https://www.linkedin.com/company/dbc-company/about/)
 - 🎓 Estudando [Engenharia de Software](https://github.com/lucasfogliarini/lucasfogliarini/blob/main/Tecnologista.md) e [Gestão de TI na Unisinos](https://ead.unisinos.br/cursos-graduacao/gestao-da-tecnologia-da-informacao)
