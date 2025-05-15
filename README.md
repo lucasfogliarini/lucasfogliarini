@@ -7,7 +7,7 @@
 - 🕯️Formando Mentes e Corações: [Engenharia e Arquitetura de Software](https://github.com/lucasfogliarini/lucasfogliarini/blob/main/Tecnologista.md) e o [Ministério de Jesus Cristo](https://github.com/lucasfogliarini/BoraBiblia/blob/main/README.md)
 - 💬 Conversando sempre sobre qualquer assunto
 
-## Repositórios
+## Projetos
 Sou muito adepto a frase ["Talk is cheap. Show me the code."](https://chatgpt.com/share/ebca0102-d6c8-4d46-b103-79b84f36e5de)  
 Então é importante apresentar minha coleção diversificada de repositórios que refletem minha experiência e habilidades em [Engenharia de Software](https://github.com/lucasfogliarini/lucasfogliarini/blob/main/Tecnologista.md), especialmente em [.NET](http://chatgpt.com/?q=.NET) e [JavaScript](http://chatgpt.com/?q=JavaScript).
 
