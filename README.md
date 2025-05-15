@@ -11,9 +11,9 @@
 Sou muito adepto a frase ["Talk is cheap. Show me the code."](https://chatgpt.com/share/ebca0102-d6c8-4d46-b103-79b84f36e5de)  
 Então é importante apresentar minha coleção diversificada de repositórios que refletem minha experiência e habilidades em [Engenharia de Software](https://github.com/lucasfogliarini/lucasfogliarini/blob/main/Tecnologista.md), especialmente em [.NET](http://chatgpt.com/?q=.NET) e [JavaScript](http://chatgpt.com/?q=JavaScript).
 
-### [BoraMorar](https://github.com/lucasfogliarini/BoraMorar) ([DDD](https://chatgpt.com/?q=DomainDrivenDesign))
-- [Systems](https://chatgpt.com/share/67fe4935-e460-8013-8efa-f4c20c4eb417) ([C4](https://chatgpt.com/?q=C4Model))
-  - [BoraCotacoes](https://github.com/lucasfogliarini/BoraCotacoes) ([.NET 8](http://chatgpt.com/?q=.NET%208), [CQRS](https://chatgpt.com/?q=CQRS), [Microservice](https://chatgpt.com/?q=microserviço))
+### Em desenvolvimento 
+- [BoraMorar](https://github.com/lucasfogliarini/BoraMorar) ([DDD](https://chatgpt.com/?q=DomainDrivenDesign), [C4](https://chatgpt.com/?q=C4Model), [.NET 8](http://chatgpt.com/?q=.NET%208), [CQRS](https://chatgpt.com/?q=CQRS), [Microservice](https://chatgpt.com/?q=microserviço), [posso representar um microserviço como um sistema C4?](https://chatgpt.com/share/67fe4935-e460-8013-8efa-f4c20c4eb417))
+- [BoraFisica](https://github.com/lucasfogliarini/BoraFisica) ([DDD](https://chatgpt.com/?q=DomainDrivenDesign), [.NET 8](http://chatgpt.com/?q=.NET%208))
 
 ### APIs
 - [BoraApi](https://github.com/lucasfogliarini/bora-api) ([.NET 8](http://chatgpt.com/?q=.NET%208))
