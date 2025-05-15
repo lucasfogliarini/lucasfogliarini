@@ -28,32 +28,33 @@ Então é importante apresentar minha coleção diversificada de repositórios q
 - [marvel-heroes](https://github.com/lucasfogliarini/marvel-heroes) (angular 5)
 - [marvel_heroes_ng1](https://github.com/lucasfogliarini/marvel_heroes_ng1) (angular 1)
 
-### Design de Software
-- [DesignPatterns](https://github.com/lucasfogliarini/DesignPatterns) (C#)
-- [DependencyInjection](https://github.com/lucasfogliarini/DependencyInjection) (C#)
-
-### Telemetria
-- [Telemetry](https://github.com/lucasfogliarini/Telemetry) (C#)
-
-### Pacotes
-- [NuClient](https://github.com/lucasfogliarini/NuClient) (C#, nuget)
-- [Repository.AzureTables](https://github.com/lucasfogliarini/Repository.AzureTables) (C#, nuget)
-- [gps](https://github.com/lucasfogliarini/gps) (js, npm)
-
-### Azure Functions
-- [BoraEventsSyncFunctions](https://github.com/lucasfogliarini/BoraEventsSyncFunctions) (C#)
-
-### Plugins e Extensões
-- [gps](https://github.com/lucasfogliarini/gps) (js)
-
 ### Segurança
 - [MicrosoftIdentityWeb](https://github.com/lucasfogliarini/MicrosoftIdentityWeb)
 - [KeycloakAuthorization](https://github.com/lucasfogliarini/KeycloakAuthorization)
 - [Security.Cryptography](https://github.com/lucasfogliarini/Security.Cryptography) (C#)
 - [AspNetCore.Authorization](https://github.com/lucasfogliarini/AspNetCore.Authorization) (C#)
 
+### Design de Software
+- [DesignPatterns](https://github.com/lucasfogliarini/DesignPatterns) (C#)
+- [DependencyInjection](https://github.com/lucasfogliarini/DependencyInjection) (C#)
+
+### Telemetria
+- [BoraMorar](https://github.com/lucasfogliarini/BoraMorar) (C#)
+- [Telemetry](https://github.com/lucasfogliarini/Telemetry) (C#)
+
+### Azure Functions
+- [BoraEventsSyncFunctions](https://github.com/lucasfogliarini/BoraEventsSyncFunctions) (C#)
+
+### Pacotes
+- [NuClient](https://github.com/lucasfogliarini/NuClient) (C#, nuget)
+- [Repository.AzureTables](https://github.com/lucasfogliarini/Repository.AzureTables) (C#, nuget)
+- [gps](https://github.com/lucasfogliarini/gps) (js, npm)
+
 ### Threading
 - [threading](https://github.com/lucasfogliarini/threading) (C#)
+
+### Plugins e Extensões
+- [gps](https://github.com/lucasfogliarini/gps) (js)
 
 ### MVC
 - [SpotifyGuess](https://github.com/lucasfogliarini/SpotifyGuess) (C#)
