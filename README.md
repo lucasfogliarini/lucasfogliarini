@@ -52,6 +52,7 @@ Então é importante apresentar minha coleção diversificada de repositórios q
 
 ### Threading
 - [threading](https://github.com/lucasfogliarini/threading) (C#)
+- [CancellationToken](https://github.com/lucasfogliarini/CancellationToken) (C#)
 
 ### Plugins e Extensões
 - [gps](https://github.com/lucasfogliarini/gps) (js)
