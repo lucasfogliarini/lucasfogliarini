@@ -1,6 +1,5 @@
 ## 👨‍💻 Lucas Fogliarini — Competências Profissionais
-
-Quer entender minha jornada como Engenheiro de Software e Agilista?  
+  
 Aqui estão minhas principais competências profissionais, organizadas por ano de início, com foco em competências técnicas, arquiteturais e ágeis.
 
 | Desde | 🕰️ XP em anos | 🧠 Competência | 🏢 Empresa |
