@@ -34,7 +34,8 @@ Então é importante apresentar minha coleção diversificada de repositórios q
 - [Security.Cryptography](https://github.com/lucasfogliarini/Security.Cryptography) (C#)
 - [AspNetCore.Authorization](https://github.com/lucasfogliarini/AspNetCore.Authorization) (C#)
 
-### Design de Software
+### Padrões de Software
+- [EventSourcing](https://github.com/lucasfogliarini/EventSourcing) (C#)
 - [DesignPatterns](https://github.com/lucasfogliarini/DesignPatterns) (C#)
 - [DependencyInjection](https://github.com/lucasfogliarini/DependencyInjection) (C#)
 
