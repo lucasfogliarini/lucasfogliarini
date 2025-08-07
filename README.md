@@ -12,6 +12,7 @@ Sou muito adepto a frase ["Talk is cheap. Show me the code."](https://chatgpt.co
 Então é importante apresentar minha coleção diversificada de repositórios que refletem minha experiência e habilidades em [Engenharia de Software](https://github.com/lucasfogliarini/lucasfogliarini/blob/main/Tecnologista.md), especialmente em [.NET](http://chatgpt.com/?q=.NET) e [JavaScript](http://chatgpt.com/?q=JavaScript).
 
 ### Em desenvolvimento 
+- [BoraEncontros](https://github.com/lucasfogliarini/BoraEncontros) ([DDD](https://chatgpt.com/?q=DomainDrivenDesign), [.NET 8](http://chatgpt.com/?q=.NET%208), [CQRS](https://chatgpt.com/?q=CQRS), [Microservice](https://chatgpt.com/?q=microserviço),
 - [BoraMorar](https://github.com/lucasfogliarini/BoraMorar) ([DDD](https://chatgpt.com/?q=DomainDrivenDesign), [C4](https://chatgpt.com/?q=C4Model), [.NET 8](http://chatgpt.com/?q=.NET%208), [CQRS](https://chatgpt.com/?q=CQRS), [Microservice](https://chatgpt.com/?q=microserviço), [posso representar um microserviço como um sistema C4?](https://chatgpt.com/share/67fe4935-e460-8013-8efa-f4c20c4eb417))
 - [BoraFisica](https://github.com/lucasfogliarini/BoraFisica) ([DDD](https://chatgpt.com/?q=DomainDrivenDesign), [.NET 8](http://chatgpt.com/?q=.NET%208))
 
