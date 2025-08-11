@@ -1,4 +1,4 @@
-## 👨‍💻 Lucas Fogliarini — Competências Profissionais
+## 👨‍💻 Competências Profissionais de Lucas Fogliarini
   
 Principais competências profissionais, organizadas por ano de início, com foco em competências técnicas, arquiteturais e ágeis.
 
