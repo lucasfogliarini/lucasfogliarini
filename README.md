@@ -15,7 +15,7 @@ Então é importante apresentar minha coleção diversificada de repositórios q
 - [BoraEncontros](https://github.com/lucasfogliarini/BoraEncontros) ([DDD](https://chatgpt.com/?q=DomainDrivenDesign), [.NET 8](http://chatgpt.com/?q=.NET%208), [CQRS](https://chatgpt.com/?q=CQRS), [Microservice](https://chatgpt.com/?q=microserviço))
 - [BoraFisica](https://github.com/lucasfogliarini/BoraFisica) ([DDD](https://chatgpt.com/?q=DomainDrivenDesign), [.NET 8](http://chatgpt.com/?q=.NET%208))
 
-### Microsserviços
+### [Microsserviços](https://chatgpt.com/share/689b338e-bd34-8013-a895-e8828242e0ba)
 - [BoraEncontros](https://github.com/lucasfogliarini/BoraEncontros) ([DDD](https://chatgpt.com/?q=DomainDrivenDesign), [.NET 8](http://chatgpt.com/?q=.NET%208), [CQRS](https://chatgpt.com/?q=CQRS), [Microservice](https://chatgpt.com/?q=microserviço))
 - [BoraMorar](https://github.com/lucasfogliarini/BoraMorar) ([DDD](https://chatgpt.com/?q=DomainDrivenDesign), [C4](https://chatgpt.com/?q=C4Model), [.NET 8](http://chatgpt.com/?q=.NET%208), [CQRS](https://chatgpt.com/?q=CQRS), [Microservice](https://chatgpt.com/?q=microserviço), [posso representar um microserviço como um sistema C4?](https://chatgpt.com/share/67fe4935-e460-8013-8efa-f4c20c4eb417))
 
