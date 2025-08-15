@@ -8,7 +8,7 @@
 - 💬 Conversando sempre sobre qualquer assunto
 
 ## Projetos
-Sou muito adepto a frase ["Talk is cheap. Show me the code."](https://chatgpt.com/share/ebca0102-d6c8-4d46-b103-79b84f36e5de)  
+Sou muito adepto a frase ["Talk is cheap. Show me the code."](https://chatgpt.com/share/ebca0102-d6c8-4d46-b103-79b84f36e5de), ou a sua [modelagem de software](https://chatgpt.com/share/689f75b3-d508-8013-b768-bc05cf2a1065).  
 Então é importante apresentar minha coleção diversificada de repositórios que refletem minha experiência e habilidades em [Engenharia de Software](https://github.com/lucasfogliarini/lucasfogliarini/blob/main/Tecnologista.md), especialmente em [.NET](http://chatgpt.com/?q=.NET) e [JavaScript](http://chatgpt.com/?q=JavaScript).
 
 ### Em desenvolvimento 
