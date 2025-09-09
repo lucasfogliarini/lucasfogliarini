@@ -12,11 +12,11 @@ Sou muito adepto a frase ["Talk is cheap. Show me the code."](https://chatgpt.co
 Então é importante apresentar minha coleção diversificada de repositórios que refletem minha experiência e habilidades em [Engenharia de Software](https://github.com/lucasfogliarini/lucasfogliarini/blob/main/Tecnologista.md), especialmente em [.NET](http://chatgpt.com/?q=.NET) e [JavaScript](http://chatgpt.com/?q=JavaScript).
 
 ### Em desenvolvimento 
-- [BoraEncontros](https://github.com/lucasfogliarini/BoraEncontros) ([DDD Tático](https://chatgpt.com/?q=DDD%20T%C3%A1tico%20e%204%20Layers), [.NET 9](http://chatgpt.com/?q=.NET%209), [CQRS](https://chatgpt.com/?q=CQRS), [Microservice](https://chatgpt.com/?q=microserviço))
+- [BoraEncontros](https://github.com/lucasfogliarini/BoraEncontros) ([DDD Tático](https://chatgpt.com/?q=DDD%20T%C3%A1tico%20e%204%20Layers), [.NET 9](http://chatgpt.com/?q=.NET%209), [CQRS](https://chatgpt.com/?q=CQRS), [Microserviço](https://chatgpt.com/?q=microserviço))
 - [BoraFisica](https://github.com/lucasfogliarini/BoraFisica) ([.NET 8](http://chatgpt.com/?q=.NET%208))
 
 ### [Microsserviços](https://chatgpt.com/share/689b338e-bd34-8013-a895-e8828242e0ba)
-- [BoraMorar](https://github.com/lucasfogliarini/BoraMorar) ([DDD Tático](https://chatgpt.com/?q=DDD%20T%C3%A1tico%20e%204%20Layers), [.NET 8](http://chatgpt.com/?q=.NET%208), [CQRS](https://chatgpt.com/?q=CQRS), [Microservice](https://chatgpt.com/?q=microserviço))
+- [BoraMorar](https://github.com/lucasfogliarini/BoraMorar) ([DDD Tático](https://chatgpt.com/?q=DDD%20T%C3%A1tico%20e%204%20Layers), [.NET 8](http://chatgpt.com/?q=.NET%208), [CQRS](https://chatgpt.com/?q=CQRS), [Microserviço](https://chatgpt.com/?q=microserviço))
 - [Yarp.ReverseProxy](https://github.com/lucasfogliarini/yarp-load-balancing)
 
 ### APIs
