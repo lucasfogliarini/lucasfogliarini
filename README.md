@@ -14,10 +14,7 @@ Então é importante apresentar minha coleção diversificada de repositórios q
 ### Em desenvolvimento 
 - [BoraEncontros](https://github.com/lucasfogliarini/BoraEncontros) ([DDD Tático](https://chatgpt.com/?q=DDD%20T%C3%A1tico%20e%204%20Layers), [.NET 9](http://chatgpt.com/?q=.NET%209), [CQRS](https://chatgpt.com/?q=CQRS), [Microserviço](https://chatgpt.com/?q=microserviço))
 - [BoraFisica](https://github.com/lucasfogliarini/BoraFisica) ([.NET 8](http://chatgpt.com/?q=.NET%208))
-
-### [Microsserviços](https://chatgpt.com/share/689b338e-bd34-8013-a895-e8828242e0ba)
 - [BoraMorar](https://github.com/lucasfogliarini/BoraMorar) ([DDD Tático](https://chatgpt.com/?q=DDD%20T%C3%A1tico%20e%204%20Layers), [.NET 8](http://chatgpt.com/?q=.NET%208), [CQRS](https://chatgpt.com/?q=CQRS), [Microserviço](https://chatgpt.com/?q=microserviço))
-- [Yarp.ReverseProxy](https://github.com/lucasfogliarini/yarp-load-balancing)
 
 ### APIs
 - [BoraApi](https://github.com/lucasfogliarini/bora-api) ([.NET 8](http://chatgpt.com/?q=.NET%208))
@@ -39,6 +36,7 @@ Então é importante apresentar minha coleção diversificada de repositórios q
 ### Padrões de Software
 - [EventSourcing](https://github.com/lucasfogliarini/EventSourcing) (C#)
 - [DesignPatterns](https://github.com/lucasfogliarini/DesignPatterns) (C#)
+- [Yarp.ReverseProxy](https://github.com/lucasfogliarini/yarp-load-balancing)
 - [DependencyInjection](https://github.com/lucasfogliarini/DependencyInjection) (C#)
 
 ### Telemetria
