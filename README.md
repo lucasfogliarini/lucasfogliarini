@@ -1,10 +1,9 @@
 ## Oi! Eu sou Lucas Fogliarini e atualmente estou ...
 
 - 👨‍💻 Atuando profissionalmente como [Arquiteto e Engenheiro de Software](https://github.com/lucasfogliarini/lucasfogliarini/blob/main/Tecnologista.md) na [Bem Promotora](https://www.linkedin.com/company/bempromotora/about/), por meio da consultoria [Bora Tech](https://www.linkedin.com/company/bora-tech/)
-- 🎓 Estudando [Engenharia e Arquitetura de Software](https://github.com/lucasfogliarini/lucasfogliarini/blob/main/Tecnologista.md) e [Gestão de TI na Unisinos](https://ead.unisinos.br/cursos-graduacao/gestao-da-tecnologia-da-informacao)
-- 🧠 Liderando o [Bora Tech](https://chat.whatsapp.com/CAzPAdol09sAk63BEJ1Qz0), grupo de tecnologia da comunidade Bora, conectando pessoas via WhatsApp em encontros presenciais para troca de conhecimento, networking e experiências práticas.
-- ♟️ Jogando muito Xadrez nas horas vagas. [Bora jogar?](https://chess.com/member/lucasfogliarini)
-- 🕯️Mentorando a Razão, a Moral e a Fé: [Engenharia e Arquitetura de Software](https://github.com/lucasfogliarini/lucasfogliarini/blob/main/Tecnologista.md) e o [Ministério de Jesus Cristo](https://github.com/lucasfogliarini/BoraBiblia/blob/main/README.md)
+- 🌎 Inovando e melhorando o mundo todo como diretor do [Bora](https://bora.host/), em sinergia com a rede [PUC Angels](https://lu.ma/pucangels-rs)
+- 🎓 Estudando [Arquitetura e Engenharia de Software](https://github.com/lucasfogliarini/lucasfogliarini/blob/main/Tecnologista.md) e [Gestão de TI na Unisinos](https://ead.unisinos.br/cursos-graduacao/gestao-da-tecnologia-da-informacao)
+- ♟️ Jogando muito Xadrez nas horas vagas. [Bora jogar?](https://chess.com/member/lucasfogliarini) 
 - 💬 Conversando sempre sobre qualquer assunto
 
 ## Projetos
