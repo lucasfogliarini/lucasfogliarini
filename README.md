@@ -28,7 +28,7 @@ Então é importante apresentar minha coleção diversificada de repositórios q
 
 ### Segurança
 - [MicrosoftIdentityWeb](https://github.com/lucasfogliarini/MicrosoftIdentityWeb)
-- [KeycloakAuthorization](https://github.com/lucasfogliarini/KeycloakAuthorization)
+- [Keycloak](https://github.com/lucasfogliarini/Keycloak)
 - [Security.Cryptography](https://github.com/lucasfogliarini/Security.Cryptography) (C#)
 - [AspNetCore.Authorization](https://github.com/lucasfogliarini/AspNetCore.Authorization) (C#)
 
