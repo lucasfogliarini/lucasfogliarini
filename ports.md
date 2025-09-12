@@ -10,7 +10,7 @@ As *well-known ports* (0–1023) **não devem ser utilizadas**. Nosso padrão in
 |                                              | **Banco de Dados 2**     | 1102  | MongoDb                           |
 |                                              | **Message Broker 1**     | 1103  | Kafka                             |
 |                                              | **Message Broker 2**     | 1104  | RabbitMQ                          |
-|                                              | **Cache 1**              | 1106  | Redis                             |
+|                                              | **Cache 1**              | 1105  | Redis                             |
 | **Web APIs (2000–3000)**                     | **Web API 1**            | 2001  | boraencontros-api                 |
 |                                              | **Web API 2**            | 2002  |                                   |
 | **Workers & Jobs (3000–4000)**               | **Workers 1**            | 3001  | boraencontros-workers             |
