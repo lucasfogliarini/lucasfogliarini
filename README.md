@@ -33,10 +33,11 @@ Então é importante apresentar minha coleção diversificada de repositórios q
 - [AspNetCore.Authorization](https://github.com/lucasfogliarini/AspNetCore.Authorization) (C#)
 
 ### Padrões de Software
-- [EventSourcing](https://github.com/lucasfogliarini/EventSourcing) (C#)
+- [Silverback](https://github.com/lucasfogliarini/Silverback) (C#)
 - [DesignPatterns](https://github.com/lucasfogliarini/DesignPatterns) (C#)
 - [Yarp.ReverseProxy](https://github.com/lucasfogliarini/yarp-load-balancing)
 - [DependencyInjection](https://github.com/lucasfogliarini/DependencyInjection) (C#)
+- [EventSourcing](https://github.com/lucasfogliarini/EventSourcing) (C#)
 
 ### Telemetria
 - [BoraMorar](https://github.com/lucasfogliarini/BoraMorar) (C#)
