@@ -27,8 +27,9 @@ Então é importante apresentar minha coleção diversificada de repositórios q
 - [marvel_heroes_ng1](https://github.com/lucasfogliarini/marvel_heroes_ng1) (angular 1)
 
 ### Segurança
-- [MicrosoftIdentityWeb](https://github.com/lucasfogliarini/MicrosoftIdentityWeb)
-- [Keycloak](https://github.com/lucasfogliarini/Keycloak)
+- [MicrosoftIdentityWeb](https://github.com/lucasfogliarini/MicrosoftIdentityWeb) (C#)
+- [Keycloak](https://github.com/lucasfogliarini/Keycloak) (C#)
+- [KeycloakAdminClient](https://github.com/lucasfogliarini/KeycloakAdminClient) (C#)
 - [Security.Cryptography](https://github.com/lucasfogliarini/Security.Cryptography) (C#)
 - [AspNetCore.Authorization](https://github.com/lucasfogliarini/AspNetCore.Authorization) (C#)
 
