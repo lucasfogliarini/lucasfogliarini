@@ -1,7 +1,7 @@
 ## Oi! Eu sou Lucas Fogliarini e atualmente estou ...
 
 - 👨‍💻 Atuando profissionalmente como [Arquiteto e Engenheiro de Software](https://github.com/lucasfogliarini/lucasfogliarini/blob/main/Tecnologista.md) na [Bem Promotora](https://www.linkedin.com/company/bempromotora/about/), por meio da consultoria [Bora Tech](https://www.linkedin.com/company/bora-tech/)
-- 🌎 Inovando e melhorando o mundo todo como diretor do [Bora](https://bora.host/), em sinergia com a rede [PUC Angels](https://lu.ma/pucangels-rs)
+- 🌎 Inovando e melhorando o mundo na comunidade [Bora](https://bora.host/), em sinergia com a rede [PUC Angels](https://lu.ma/pucangels-rs)
 - 🎓 Estudando [Arquitetura e Engenharia de Software](https://github.com/lucasfogliarini/lucasfogliarini/blob/main/Tecnologista.md) e [Gestão de TI na Unisinos](https://ead.unisinos.br/cursos-graduacao/gestao-da-tecnologia-da-informacao)
 - ♟️ Jogando muito Xadrez nas horas vagas. [Bora jogar?](https://chess.com/member/lucasfogliarini) 
 - 💬 Conversando sempre sobre qualquer assunto
