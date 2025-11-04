@@ -1,7 +1,7 @@
 ## Oi! Eu sou Lucas Fogliarini e atualmente estou ...
 
 - 👨‍💻 Atuando profissionalmente como [Arquiteto e Engenheiro de Software](https://github.com/lucasfogliarini/lucasfogliarini/blob/main/Tecnologista.md) na [Bem Promotora](https://www.linkedin.com/company/bempromotora/about/), por meio da consultoria [Bora Tech](https://www.linkedin.com/company/bora-tech/)
-- 🌎 Inovando e melhorando o mundo na comunidade [Bora](https://bora.host/), em sinergia com a rede [PUC Angels](https://lu.ma/pucangels-rs)
+- 🌎 Inovando e melhorando o mundo na comunidade [Bora](https://bora.host/), em sinergia com a rede [PUC Angels](https://lu.ma/pucangels-rs) e a [Igreja Brasa](https://brasachurch.com/)
 - 🎓 Estudando [Arquitetura e Engenharia de Software](https://github.com/lucasfogliarini/lucasfogliarini/blob/main/Tecnologista.md) e [Gestão de TI na Unisinos](https://ead.unisinos.br/cursos-graduacao/gestao-da-tecnologia-da-informacao)
 - ♟️ Jogando muito Xadrez nas horas vagas. [Bora jogar?](https://chess.com/member/lucasfogliarini) 
 - 💬 Conversando sempre sobre qualquer assunto
@@ -12,8 +12,10 @@ Então é importante apresentar minha coleção diversificada de repositórios q
 
 ### Em desenvolvimento 
 - [BoraEncontros](https://github.com/lucasfogliarini/BoraEncontros) ([DDD Tático](https://chatgpt.com/?q=DDD%20T%C3%A1tico%20e%204%20Layers), [.NET 9](http://chatgpt.com/?q=.NET%209), [CQRS](https://chatgpt.com/?q=CQRS), [Microserviço](https://chatgpt.com/?q=microserviço))
-- [BoraFisica](https://github.com/lucasfogliarini/BoraFisica) ([.NET 8](http://chatgpt.com/?q=.NET%208))
+- [LedgerFlow](https://github.com/lucasfogliarini/ledgerflow) ([Arquitetura com C4](https://chatgpt.com/?q=c4model), [DDD Tático](https://chatgpt.com/?q=DDD%20T%C3%A1tico%20e%204%20Layers), [.NET 9](http://chatgpt.com/?q=.NET%208), [CQRS](https://chatgpt.com/?q=CQRS), [Microserviço](https://chatgpt.com/?q=microserviço))
 - [BoraMorar](https://github.com/lucasfogliarini/BoraMorar) ([DDD Tático](https://chatgpt.com/?q=DDD%20T%C3%A1tico%20e%204%20Layers), [.NET 8](http://chatgpt.com/?q=.NET%208), [CQRS](https://chatgpt.com/?q=CQRS), [Microserviço](https://chatgpt.com/?q=microserviço))
+- [BoraFisica](https://github.com/lucasfogliarini/BoraFisica) ([.NET 8](http://chatgpt.com/?q=.NET%208))
+
 
 ### APIs
 - [BoraApi](https://github.com/lucasfogliarini/bora-api) ([.NET 8](http://chatgpt.com/?q=.NET%208))
