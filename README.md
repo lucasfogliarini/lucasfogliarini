@@ -19,7 +19,7 @@ Então é importante apresentar minha coleção diversificada de repositórios q
 
 ### APIs
 - [BoraApi](https://github.com/lucasfogliarini/bora-api) ([.NET 8](http://chatgpt.com/?q=.NET%208))
-- - [BoraApi](https://github.com/lucasfogliarini/simple-api) ([.NET 9](http://chatgpt.com/?q=Kubernetes,http://chatgpt.com/?q=.NET%208))
+- [simple-api](https://github.com/lucasfogliarini/simple-api) ([.NET 9](http://chatgpt.com/?q=Kubernetes,http://chatgpt.com/?q=.NET%208))
 
 ### SPAs (Single Page Applications)
 - [Bora](https://github.com/lucasfogliarini/bora) (Angular)
