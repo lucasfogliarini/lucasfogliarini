@@ -42,6 +42,7 @@ Então é importante apresentar minha coleção diversificada de repositórios q
 - [Yarp.ReverseProxy](https://github.com/lucasfogliarini/yarp-load-balancing)
 - [DependencyInjection](https://github.com/lucasfogliarini/DependencyInjection) (C#)
 - [EventSourcing](https://github.com/lucasfogliarini/EventSourcing) (C#)
+- [Idempotency](https://github.com/lucasfogliarini/idempotency) (C#)
 
 ### Telemetria
 - [BoraMorar](https://github.com/lucasfogliarini/BoraMorar) (C#)
