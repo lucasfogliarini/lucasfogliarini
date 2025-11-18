@@ -39,10 +39,11 @@ Então é importante apresentar minha coleção diversificada de repositórios q
 ### Padrões de Software
 - [Silverback](https://github.com/lucasfogliarini/Silverback) (C#)
 - [DesignPatterns](https://github.com/lucasfogliarini/DesignPatterns) (C#)
+- [SafeParallelism](https://github.com/lucasfogliarini/SafeParallelism) (C#, Optimistic Concurrency, Idempotency, Threading)
 - [Yarp.ReverseProxy](https://github.com/lucasfogliarini/yarp-load-balancing)
 - [DependencyInjection](https://github.com/lucasfogliarini/DependencyInjection) (C#)
 - [EventSourcing](https://github.com/lucasfogliarini/EventSourcing) (C#)
-- [Idempotency](https://github.com/lucasfogliarini/idempotency) (C#)
+- [CancellationToken](https://github.com/lucasfogliarini/CancellationToken) (C#)
 
 ### Telemetria
 - [BoraMorar](https://github.com/lucasfogliarini/BoraMorar) (C#)
@@ -55,10 +56,6 @@ Então é importante apresentar minha coleção diversificada de repositórios q
 - [NuClient](https://github.com/lucasfogliarini/NuClient) (C#, nuget)
 - [Repository.AzureTables](https://github.com/lucasfogliarini/Repository.AzureTables) (C#, nuget)
 - [gps](https://github.com/lucasfogliarini/gps) (js, npm)
-
-### Threading
-- [threading](https://github.com/lucasfogliarini/threading) (C#)
-- [CancellationToken](https://github.com/lucasfogliarini/CancellationToken) (C#)
 
 ### Plugins e Extensões
 - [gps](https://github.com/lucasfogliarini/gps) (js)
