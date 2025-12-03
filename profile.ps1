@@ -2,7 +2,7 @@
 #  PROFILE DO POWERSHELL - Lucas Fogliarini
 # ====================================================================
 #  Execute este comando para criar/carregar este profile forçado:
-#  Invoke-WebRequest -Uri "https://raw.githubusercontent.com/lucasfogliarini/lucasfogliarini/main/profile.ps1" -OutFile $PROFILE; . $PROFILE; Get-Alias | Where-Object { $_.Name -in @('nodes','pods','services', 'gs', 'h', 'd', 'k') }
+#  Invoke-WebRequest -Uri "https://raw.githubusercontent.com/lucasfogliarini/lucasfogliarini/main/profile.ps1" -OutFile $PROFILE; . $PROFILE; Get-Command -CommandType Function | Where-Object { $_.Name -in @('nodes','pods','services', 'gs', 'd', 'k') }
 # ====================================================================
 
 function nodes { kubectl get nodes -o wide @args }
