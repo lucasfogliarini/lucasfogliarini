@@ -1,6 +1,6 @@
 ## Oi! Eu sou Lucas Fogliarini e atualmente estou ...
 
-- 👨‍💻 Atuando profissionalmente como [Arquiteto de Software](https://lucasfogliarini.bora.host/) para o Banco Carrefour(https://lucasfogliarini.bora.host/work/banco-carrefour)
+- 👨‍💻 Atuando profissionalmente como [Arquiteto de Software](https://lucasfogliarini.bora.host/) para o [Banco Carrefour](https://lucasfogliarini.bora.host/work/banco-carrefour)
 - 🌎 Inovando e melhorando o mundo na comunidade [Bora](https://bora.host/), em sinergia com a [Igreja Brasa](https://lucasfogliarini.bora.host/events) e a rede [PUC Angels](https://lu.ma/pucangels-rs)
 - 🎓 Estudando [Arquitetura e Engenharia de Software](https://lucasfogliarini.bora.host/work) e [Gestão de TI na Unisinos](https://lucasfogliarini.bora.host/about#estudos)
 - ♟️ Jogando muito Xadrez nas horas vagas. Bora jogar? [Faça um convite de 1 dia no chess.com](https://chess.com/member/lucasfogliarini) ou se quiser marque comigo pela [agenda](https://lucasfogliarini.bora.host/events)
