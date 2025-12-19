@@ -1,16 +1,16 @@
 ## Oi! Eu sou Lucas Fogliarini e atualmente estou ...
 
-- 👨‍💻 Atuando profissionalmente como [Arquiteto e Engenheiro de Software](https://github.com/lucasfogliarini/lucasfogliarini/blob/main/Tecnologista.md) na [Bem Promotora](https://www.linkedin.com/company/bempromotora/about/), por meio da consultoria [Bora Tech](https://www.linkedin.com/company/bora-tech/)
-- 🌎 Inovando e melhorando o mundo na comunidade [Bora](https://bora.host/), em sinergia com a rede [PUC Angels](https://lu.ma/pucangels-rs) e a [Igreja Brasa](https://brasachurch.com/)
-- 🎓 Estudando [Arquitetura e Engenharia de Software](https://github.com/lucasfogliarini/lucasfogliarini/blob/main/Tecnologista.md) e [Gestão de TI na Unisinos](https://ead.unisinos.br/cursos-graduacao/gestao-da-tecnologia-da-informacao)
-- ♟️ Jogando muito Xadrez nas horas vagas. [Bora jogar?](https://chess.com/member/lucasfogliarini) 
+- 👨‍💻 Atuando profissionalmente como [Arquiteto de Software](https://lucasfogliarini.bora.host/) para o Banco Carrefour(https://lucasfogliarini.bora.host/work/banco-carrefour)
+- 🌎 Inovando e melhorando o mundo na comunidade [Bora](https://bora.host/), em sinergia com a [Igreja Brasa](https://lucasfogliarini.bora.host/events) e a rede [PUC Angels](https://lu.ma/pucangels-rs)
+- 🎓 Estudando [Arquitetura e Engenharia de Software](https://lucasfogliarini.bora.host/work) e [Gestão de TI na Unisinos](https://lucasfogliarini.bora.host/about#estudos)
+- ♟️ Jogando muito Xadrez nas horas vagas. Bora jogar? [Faça um convite de 1 dia no chess.com](https://chess.com/member/lucasfogliarini) ou se quiser marque comigo pela [agenda](https://lucasfogliarini.bora.host/events)
 - 💬 Conversando sempre sobre qualquer assunto
 
-## Projetos, modelos e padrões
+## Portfólio de projetos e padrões
 Sou muito adepto a frase ["Talk is cheap. Show me the code."](https://chatgpt.com/share/ebca0102-d6c8-4d46-b103-79b84f36e5de), ou a sua [modelagem de software](https://chatgpt.com/share/689f75b3-d508-8013-b768-bc05cf2a1065).  
-Então é importante apresentar minha coleção diversificada de repositórios que refletem minha experiência e habilidades em [Engenharia de Software](https://github.com/lucasfogliarini/lucasfogliarini/blob/main/Tecnologista.md), especialmente em [.NET](http://chatgpt.com/?q=.NET) e [JavaScript](http://chatgpt.com/?q=JavaScript).
+Então é importante apresentar minha coleção diversificada de projetos e padrões que refletem minha experiência e habilidades em [Arquitetura e Engenharia de Software](https://lucasfogliarini.bora.host/work), especialmente em [Arquitetura com C4](https://chatgpt.com/?q=c4model), [EventStorming e DDD](https://chatgpt.com/?q=EventStorming%20e%20DDD), [.NET](http://chatgpt.com/?q=.NET) e [JavaScript](http://chatgpt.com/?q=JavaScript).
 
-### Em desenvolvimento 
+### Projetos em desenvolvimento
 - [BoraEncontros](https://github.com/lucasfogliarini/BoraEncontros) ([DDD Tático](https://chatgpt.com/?q=DDD%20T%C3%A1tico%20e%204%20Layers), [.NET 9](http://chatgpt.com/?q=.NET%209), [CQRS](https://chatgpt.com/?q=CQRS), [Microserviço](https://chatgpt.com/?q=microserviço))
 - [LedgerFlow](https://github.com/lucasfogliarini/ledgerflow) ([Arquitetura com C4](https://chatgpt.com/?q=c4model), [DDD Tático](https://chatgpt.com/?q=DDD%20T%C3%A1tico%20e%204%20Layers), [.NET 9](http://chatgpt.com/?q=.NET%208), [CQRS](https://chatgpt.com/?q=CQRS), [Microserviço](https://chatgpt.com/?q=microserviço))
 - [BoraMorar](https://github.com/lucasfogliarini/BoraMorar) ([DDD Tático](https://chatgpt.com/?q=DDD%20T%C3%A1tico%20e%204%20Layers), [.NET 8](http://chatgpt.com/?q=.NET%208), [CQRS](https://chatgpt.com/?q=CQRS), [Microserviço](https://chatgpt.com/?q=microserviço))
