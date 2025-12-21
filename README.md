@@ -1,22 +1,33 @@
-# [Domain-Oriented Collaboration Protocol (MCP-like)](https://s.icepanel.io/8ed1WNhopjo4xF/wRIp)
-Synthesis (Domain-First)
-Team Protocol is a domain-oriented collaboration protocol, similar in nature to the Model Context Protocol (MCP).
-It defines a team as a bounded domain and standardizes how context, responsibilities, and interactions are exposed and consumed.
+# [Domain Pair Protocol](https://s.icepanel.io/8ed1WNhopjo4xF/wRIp)
 
-In this model:
-A team is a domain.
+## Domain Pair Protocol — Synthesis
 
-The Team Protocol is the domain’s protocol, not its tooling.
+> **Domain Pair Protocol defines how two developers or architects pair by resolving identity through domains, before interacting through platforms or tools.**
 
-Just as MCP standardizes how context is exchanged between models and tools,
-Team Protocol standardizes how context is exchanged between people, roles, and systems.
+In this protocol:
 
-Platforms operate inside the protocol, never defining it.
+* **Pairing starts at the domain level**, analogous to DNS resolution.
+* A **domain represents authoritative identity**, not a platform account.
+* A **primary nick is bound to the domain** as the human identifier.
+* Platforms such as GitHub, GitLab, and Bitbucket provide **team execution contexts**, already scoped by their own domains.
 
-This turns collaboration into a deterministic sociotechnical interface.
+### How to pair with another developer or architect?
 
-## Me + You + IcePanel + Github
-- [Main Landscape](https://s.icepanel.io/8ed1WNhopjo4xF/wRIp/landscape/overview)
+1. **Primary Nick (Human Identity)**
+
+   * Identify the main nick of the developer or architect you want to pair with.
+
+2. **Primary Team (Platform Domain)**
+
+   * Identify the primary team where this nick operates
+     (e.g., GitHub, GitLab, Bitbucket domains).
+
+> **Domains resolve identity.
+> Teams execute collaboration.
+> Pairing is a domain-level operation.**
+
+## You + Me + Github + IcePanel
 - [Main Repository](https://github.com/lucasfogliarini/lucasfogliarini)
+- [Main Landscape](https://s.icepanel.io/8ed1WNhopjo4xF/wRIp/landscape/overview)
 
 ## [About Me/Sobre mim](https://lucasfogliarini.bora.host/)
