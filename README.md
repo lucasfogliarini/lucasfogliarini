@@ -1,15 +1,19 @@
-# [Team Protocol](https://s.icepanel.io/8ed1WNhopjo4xF/wRIp)
+# [Domain-Oriented Collaboration Protocol (MCP-like)](https://s.icepanel.io/8ed1WNhopjo4xF/wRIp)
 Synthesis (Domain-First)
-Team Protocol is a domain-driven contract that defines how a team exists, operates, and makes decisions.
-A team is treated as a bounded domain, with explicit identity, responsibilities, and interaction rules.
+Team Protocol is a domain-oriented collaboration protocol, similar in nature to the Model Context Protocol (MCP).
+It defines a team as a bounded domain and standardizes how context, responsibilities, and interactions are exposed and consumed.
 
 In this model:
+A team is a domain.
 
-A team is a domain, not just a group of people.
-The Team Protocol is the domain contract.
-Platforms, tools, and methodologies operate inside the domain, never defining it.
-Explicit rules replace implicit culture.
-This transforms collaboration into a reliable sociotechnical system.
+The Team Protocol is the domain’s protocol, not its tooling.
+
+Just as MCP standardizes how context is exchanged between models and tools,
+Team Protocol standardizes how context is exchanged between people, roles, and systems.
+
+Platforms operate inside the protocol, never defining it.
+
+This turns collaboration into a deterministic sociotechnical interface.
 
 ## Me + You + IcePanel + Github
 - [Main Landscape](https://s.icepanel.io/8ed1WNhopjo4xF/wRIp/landscape/overview)
