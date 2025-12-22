@@ -1,1 +1,3 @@
-[Protocolo de Pareamento de Soluções com Github, Icepanel e Azure](pensei muito até fundir a cuca)
+Protocolo de Pareamento de Soluções com Github, Icepanel e Azure
+
+Será que nós conseguimos criar um protocolo de pareamento de soluções com github, icepanel e azure?
