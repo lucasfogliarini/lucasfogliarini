@@ -11,3 +11,7 @@ https://modelcontextprotocol.io/docs/getting-started/intro
 
 Compreendi o conceito, mas não consigo imaginar como ele pode ser útil para mim, pois agora o ppsgi funciona melhor para mim, tentem se conectar comigo para ver se podemos fazer algo juntos.
 
+### Curti
+<img width="896" height="572" alt="image" src="https://github.com/user-attachments/assets/b1f42a6b-8c93-462e-817a-db18c0550e4d" />
+
+
