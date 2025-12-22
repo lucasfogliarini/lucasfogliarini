@@ -2,7 +2,7 @@
 
 # Eu criei recentemente meu primeiro protocolo chamado [ppsgi](protocolos/ppsgi.md) e imaginei o [ppsgica](protocolos/ppsgia.md) para [limpar e salvar](https://open.spotify.com/track/1OGtusmbhssNPdnDxqol0P) a [terra](lares/terra.md)
 
-## Eu estou usando esse [protocolo](protocolos/ppsgic.md) para convencer o [primeiro time da terra](times/primeiro-time-para-salvar-a-terra.md) que ele pode salvar a [terra](lares/terra.md) se tudo der certo e estou orando muito por isso.
+## Eu estou usando esse [protocolo](protocolos/ppsgi.md) para convencer o [primeiro time da terra](times/primeiro-time-para-salvar-a-terra.md) que ele pode salvar a [terra](lares/terra.md) se tudo der certo e estou orando muito por isso.
 
 ### [Repositório Principal](https://github.com/lucasfogliarini/lucasfogliarini)  
 ### [Primeiro Landscape](https://s.icepanel.io/8ed1WNhopjo4xF/wRIp)
