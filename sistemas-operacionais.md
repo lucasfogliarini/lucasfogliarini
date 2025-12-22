@@ -1,3 +1,5 @@
+[Linus Torvalds](pessoas/linus-torvalds.md) está aqui triplamente, e talvez mais...
+
 # Principais Sistemas Operacionais
 
 Esta tabela apresenta os principais sistemas operacionais históricos e modernos, com dados sobre código-fonte, autores, origem, licença, se são Unix-like e se têm compatibilidade com Docker.

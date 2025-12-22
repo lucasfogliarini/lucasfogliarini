@@ -1,0 +1,1 @@
+[Protocolo de Pareamento de Soluções com Github, Icepanel e Azure](pensei muito até fundir a cuca)

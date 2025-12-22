@@ -1,3 +1,5 @@
+Aqui já começa a genealogia e isso me lembra genesis de moisés e de Lucas, que se parece comigo.
+
 # Família Fogliarini
 
 | Nascimento                                                                 | Nome                                                                                     | Parceiro(a)                                                                                      | Mãe                                                                                     | Pai                                                                                     | Cresceu em                                               | Nasceu em                                                 |
