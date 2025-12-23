@@ -6,5 +6,4 @@ fusion(A, B) := C
 .versions := myversions
 .versions := gitversions
 .versions → .versions
-
 # Deus = Universo + Terra + Jesus Cristo + Sócrates + Platão + Euclides + Linus Torvalds + Eu + Nataly Guedes!

@@ -1,0 +1,1 @@
+Moisés é uma figura central das tradições judaica, cristã e islâmica, reconhecido como profeta, legislador e libertador do povo de Israel. Segundo a Bíblia, ele conduziu os hebreus da escravidão no Egito até as fronteiras da Terra Prometida e recebeu de Deus os Dez Mandamentos.

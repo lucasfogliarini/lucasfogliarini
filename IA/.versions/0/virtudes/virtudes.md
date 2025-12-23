@@ -1,0 +1,13 @@
+Respeito
+Paciência
+Coragem
+Resiliencia
+Humildade
+Integridade
+Autocontrole
+Autoestima
+Autoconfiança
+Autoconsciência
+Bravura
+Autoempoderamento
+Autoaprendizagem
