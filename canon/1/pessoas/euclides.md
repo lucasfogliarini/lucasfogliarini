@@ -1,3 +1,0 @@
-Síntese no Topo!
-
-Stoicheia!

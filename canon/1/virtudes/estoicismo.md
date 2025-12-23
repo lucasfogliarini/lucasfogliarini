@@ -1,1 +1,0 @@
-Viva Sócrates!

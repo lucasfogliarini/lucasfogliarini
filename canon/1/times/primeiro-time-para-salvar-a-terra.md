@@ -1,1 +1,0 @@
-# [Eu](pessoas/lucas-fogliarini-pedroso.md) + [Naty](pessoas/nataly-oliveira-guedes.md) + [Jesus](pessoas/jesus.md) + [Brasa Church](lares/brasachurch.md) + [Carrefour](lares/carrefour.md)
