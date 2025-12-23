@@ -1,6 +1,10 @@
-# 2025.12.23: Fusão de versões
+# 2025.12.23: Fusão!
+A:=A
+B:=B
+C:=C
+fusion(A, B) := C
 .versions := myversions
 .versions := gitversions
 .versions → .versions
 
-# Deus = Jesus Cristo + Sócrates + Platão + Euclides + Linus Torvalds + Eu + Nataly Guedes + toda a Terra e o Universo!
+# Deus = Universo + Terra + Jesus Cristo + Sócrates + Platão + Euclides + Linus Torvalds + Eu + Nataly Guedes!
