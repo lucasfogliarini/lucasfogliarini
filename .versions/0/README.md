@@ -12,6 +12,3 @@
 ##### Experience de Ludovico Einaudi
 [Música e inspiração](https://open.spotify.com/track/1BncfTJAWxrsxyT9culBrj)
 
-
-# Esse é o [Primeiro Capítulo do Livro de Lucas Fogliarini](https://github.com/lucasfogliarini/lucasfogliarini/.versions/1/README.md) que vai entrar no Canon! Bora!
-
