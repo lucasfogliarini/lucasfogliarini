@@ -1,6 +1,10 @@
-=
-!=
->
-<
-numbers
-elements
+# # Comentário
+= # Igual
+!= # Diferente
+> # Maior
+< # Menor
+numbers # Números
+elements # Elementos
+
+
+, #divisão temporária
