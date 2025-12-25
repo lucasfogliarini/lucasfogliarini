@@ -27,4 +27,4 @@ mas dita no nosso sotaque, de pé no chão e sem balaca.
 ```
 
 ### 
-Veja sua primeira definição em 'bora.bora' desta pasta
+Primeira definição em [bora.bora](bora.bora).
