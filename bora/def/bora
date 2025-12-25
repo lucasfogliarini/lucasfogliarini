@@ -1,10 +1,16 @@
-# # Comentário
-= # Igual
-!= # Diferente
-> # Maior
-< # Menor
-numbers # Números
-elements # Elementos
-
-
-, #divisão temporária
+# Arte de Atribuir
+=
+# Arte de Desengronhar e Engronhar
++
+*
+-
+/
+# Arte de Igualar
+==
+!=
+# Arte de Comparar
+==
+>
+<
+>=
+<=
