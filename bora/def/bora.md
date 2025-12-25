@@ -25,3 +25,6 @@ mas dita no nosso sotaque, de pé no chão e sem balaca.
 >=    //Maior ou igual que um trosso
 <=    //Menor ou igual que um trosso
 ```
+
+### 
+Veja sua primeira definição em 'bora.bora' desta pasta
