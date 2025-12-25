@@ -1,0 +1,2 @@
+Tudo começou na minha vida no [dia 17 de julho de 1990 que foi o dia que nasci em [Cachoeira do Sul](cachoeira_do_sul.md).
+Não sei bem quem foi a parteira e nem exatamente como aconteceu, mas sei que fui [batizado na Igreja Católica](catolicismo.md) por que [minha mãe Carmen](carmen-fogliarini-pedroso.md) tinha e tem muita fé até hoje (2025-12-25).
