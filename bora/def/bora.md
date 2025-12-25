@@ -6,7 +6,7 @@ mas dita no nosso sotaque, de pé no chão e sem balaca.
 
 ## Arte de Atribuir
 ```csharp
-= //bota um valor no lugar
+= //bota um valor no lugar, nada a ver com igualar, vide Arte de Igualar
 ```
 ## Arte de Desengronhar e Engronhar
 
@@ -16,17 +16,12 @@ mas dita no nosso sotaque, de pé no chão e sem balaca.
 *     //Desengronhar muito
 /     //Engronhar muito
 ```
-
-## Arte de Igualar
-```csharp
-==    //É igual, sem balaca
-!=    //Não é igual, nem aqui nem na China
-```
-
 ## Arte de Comparar
 ```csharp
->     //Maior que
-<     //Menor que
->=    //Maior ou igual
-<=    //Menor ou igual
+==    //Isso sim é igualar Vivente! Não atribuir como '='.
+!=    //Isso é completamente oposto de '=='.
+>     //Maior que um trosso
+<     //Menor que um trosso
+>=    //Maior ou igual que um trosso
+<=    //Menor ou igual que um trosso
 ```
