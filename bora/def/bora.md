@@ -1,14 +1,14 @@
-# LINGUAGEM BORA e sua Arte Operacional
+# BORA e seu jeito de Ser
 
 Resuminho dos operadores da linguagem Bora.  
 Linguagem com raiz lá do tempo de Jesus,  
 mas dita no nosso sotaque, de pé no chão e sem balaca.
 
-## Arte de Atribuir
+## Atribuindo
 ```csharp
 = //bota um valor no lugar, nada a ver com igualar, vide Arte de Igualar
 ```
-## Arte de Desengronhar e Engronhar
+## Desengronhando e Engronhando
 
 ```csharp
 +     //Desengronhar pouco
@@ -16,7 +16,7 @@ mas dita no nosso sotaque, de pé no chão e sem balaca.
 *     //Desengronhar muito
 /     //Engronhar muito
 ```
-## Arte de Comparar
+## Comparando
 ```csharp
 ==    //Isso sim é igualar Vivente! Não atribuir como '='.
 !=    //Isso é completamente oposto de '=='.
