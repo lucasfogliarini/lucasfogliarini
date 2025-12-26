@@ -1,0 +1,1 @@
+Amo minha noiva Nataly Oliveira Guedes até o fim da minha vida.
