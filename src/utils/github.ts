@@ -17,7 +17,7 @@ export type GitHubRepo = {
     };
 };
 
-export async function getGitHubRepos(username: string = "lucasfogliarini", per_page: number = 100, sort: string = 'updated'): Promise<GitHubRepo[]> {
+export async function getGitHubRepos(username: string = "lucasfogliarini", per_page: number = 10, sort: string = 'updated'): Promise<GitHubRepo[]> {
     try {
         const response = await fetch(`https://api.github.com/users/${username}/repos?per_page=${per_page}&sort=${sort}`);
 
