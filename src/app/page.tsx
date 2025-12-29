@@ -70,13 +70,9 @@ export default function Home() {
       <RevealFx translateY="16" delay={0.6}>
         <Column fillWidth gap="l">
           <Heading as="h2" wrap="balance">
-            Projetos
+            Bora!?
           </Heading>
           <Projects range={[1, 3]} />
-          <Heading as="h2" wrap="balance">
-            Repositórios
-          </Heading>
-          <Repositories range={[1, 4]} />
         </Column>
       </RevealFx>
     </Column>

@@ -31,16 +31,9 @@ export default function Work() {
         }}
       />
       <Heading wrap="balance">
-        Projetos
+        Bora!?
       </Heading>
-      <br />
       <Projects />
-      <br />
-      <Heading wrap="balance">
-        Repositórios
-      </Heading>
-      <br />
-      <Repositories />
     </Column>
   );
 }
