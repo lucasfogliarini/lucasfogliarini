@@ -1,0 +1,1 @@
+Meu pai Edson Luiz Vasconcelos Pedroso é seguidor de Jesus Cristo e um homem de muitas virtudes e talentos, ele é um dos meus maiores inspiradores e influenciadores sobre arquitetura, artes e a seguir Jesus Cristo.

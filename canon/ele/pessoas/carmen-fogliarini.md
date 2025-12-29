@@ -1,0 +1,1 @@
+Minha mãe Carmen Luiza Fogliarini Pedroso é seguidora de Jesus Cristo e uma mulher de muitas virtudes e talentos, ela me ensina a seguir Jesus Cristo e a amar a minha família.
