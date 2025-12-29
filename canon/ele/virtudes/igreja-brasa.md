@@ -4,4 +4,5 @@ O CIMEPA reúne pastores de dezenas de denominações diferentes e representa a 
 
 O Conselho Network é um grupo de pastores originários do Ministério Brasa. Muitos líderes que integraram esse movimento desde os anos 1990 se juntaram em 2020, de forma independente, para andar em unidade em um ambiente de colaboração entre comunidades autônomas.
 
-[O que cremos](https://brasachurch.com/oquecremos)
+[O que cremos](https://brasachurch.com/oquecremos)  
+[Onde congregamos](../terras/igreja-brasa.md)
