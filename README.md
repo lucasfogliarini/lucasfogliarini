@@ -7,7 +7,6 @@ Seguinte, vou contar um pouco da minha história, tudo começou no [dia 17 de ju
 ## Eu estou usando esse [protocolo](canon/protocolos/ppsgic.md) para convencer o [primeiro time da terra](canon/times/primeiro-time-para-salvar-a-terra.md) que ele pode salvar a [terra](canon/lares/terra.md) se tudo der certo e estou orando muito por isso.
 
 ### [Repositório Principal](https://github.com/lucasfogliarini/lucasfogliarini)  
-### [Primeiro Landscape](https://s.icepanel.io/8ed1WNhopjo4xF/wRIp)
+### [Domínio Principal](https://app.icepanel.io/landscapes/v3MTVXKMPjCfg4LaPENe/versions/latest/overview?domain=IsGTyragGe)
 
-##### Experience de Ludovico Einaudi
-[Música e inspiração](https://open.spotify.com/track/1BncfTJAWxrsxyT9culBrj)
+##### [Experience de Ludovico Einaudi](https://open.spotify.com/track/1BncfTJAWxrsxyT9culBrj)

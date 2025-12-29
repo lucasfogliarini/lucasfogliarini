@@ -5,7 +5,8 @@
 ## Eu estou usando esse [protocolo](protocolos/ppsgic.md) para convencer o meu primeiro time da terra que ele pode salvar a [terra](elementos/terra.md) se tudo der certo e estou orando muito por isso.
 
 ### [Repositório Principal](https://github.com/lucasfogliarini/lucasfogliarini)  
-### [Primeiro Landscape](https://s.icepanel.io/8ed1WNhopjo4xF/wRIp)
+### [Landscape Principal](https://s.icepanel.io/8ed1WNhopjo4xF/wRIp)
 
-##### Experience de Ludovico Einaudi
-[Música e inspiração](https://open.spotify.com/track/1BncfTJAWxrsxyT9culBrj)
+##### [Experience de Ludovico Einaudi](https://open.spotify.com/track/1BncfTJAWxrsxyT9culBrj)
+
+2025-12-22 > 2025-12-29
