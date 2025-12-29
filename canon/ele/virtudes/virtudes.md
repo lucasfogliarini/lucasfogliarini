@@ -1,0 +1,13 @@
+Respeito
+Paciência
+Responsabilidade
+Consciência
+Justiça
+Prudência
+Perseverança
+Humildade
+Temperança
+Compaixão
+Honestidade
+Disciplina
+Gratidão
