@@ -95,23 +95,46 @@ const about = {
   },
   intro: {
     display: true,
-    title: "Introdução",
+    title: "Sobre mim",
     description: (
       <>
-        Olá! Sou Lucas Fogliarini, atualmente trabalho como Arquiteto e Engenheiro de Software, com mais de 15 anos de experiência em tecnologia.
-        <br /><br />
-        Ao longo da minha trajetória, atuei em projetos desafiadores e de alto impacto, assumindo funções como Engenheiro, Líder Técnico e Arquiteto de Software. Essa vivência me proporcionou uma visão sólida e prática sobre desenvolvimento de sistemas escaláveis, arquitetura moderna e entrega de soluções com qualidade e valor real para o negócio.
-        <br /><br />
-        Já contribui com iniciativas estratégicas, táticas e operacionais em empresas como Bem Promotora (empréstimo consignado), Dell Digital Finance, Cogna PTC, PrismaGD, Argo Protector, Warren, entre outras. Cada projeto ampliou minha bagagem técnica e minha capacidade de atuar em contextos complexos e colaborativos.
-        <br /><br />
-        Sou movido por desafios, apaixonado por tecnologia e entusiasta do compartilhamento de conhecimento. Você pode acompanhar meus projetos, detalhes das minhas competências e iniciativas no meu GitHub
+        Sou movido por um sonho que une fé, responsabilidade e ação concreta. Estou sonhando, orando, arquitetando e me comunicando com pessoas comprometidas com os ensinamentos de Jesus Cristo para cuidar da terra da nação de Jesus Cristo — de forma consciente, sustentável e responsável com o presente e o futuro.
+        <br />
+        <br />
+        Minha atuação combina visão espiritual, pensamento sistêmico e execução prática. Busco integrar tecnologia, arquitetura, educação financeira e moradia sustentável como instrumentos de transformação social, sempre em harmonia com a criação e com as pessoas.
+        <br />
+        <br />
+        Quem deseja compreender mais profundamente minha trajetória, minhas ideias e os projetos que estou construindo pode encontrar mais detalhes no meu LinkedIn, GitHub e Bora Encontros, onde compartilho minha visão, meus trabalhos e as iniciativas que estou desenvolvendo ao longo dessa jornada.
       </>
     ),
   },
   work: {
-    display: true, // set to false to hide this section
+    display: false, // set to false to hide this section
     title: "Experiência profissional",
     experiences: [
+      {
+        company: "Bem Promotora",
+        timeframe: "2024 - Presente",
+        role: "Engenheiro de Software",
+        achievements: [
+          <>
+            Responsável por promover o desenvolvimento eficiente de software na Bem Promotora por meio de uma plataforma robusta, confiável e escalável, fornecendo suporte técnico, ferramentas e boas práticas que capacitam as equipes a atingirem seus objetivos de negócio com qualidade e agilidade.
+            Foco em impulsionar inovação, excelência técnica e eficiência operacional, garantindo segurança, estabilidade e alta performance da plataforma de desenvolvimento.
+          </>,
+          <>
+            Enabling Team, SCRUM, C4, EDA, DDD, Azure DevOps,  ASP.NET Core 8,  Kubernetes (AKS), Docker, OpenTelemetry
+          </>,
+        ],
+        images: [
+          // optional: leave the array empty if you don't want to display images
+          /*{
+            src: "/images/projects/project-01/cover-01.jpg",
+            alt: "Once UI Project",
+            width: 16, 
+            height: 9,
+          },*/
+        ],
+      },
       {
         company: "Bem Promotora",
         timeframe: "2024 - Presente",
@@ -191,7 +214,7 @@ const about = {
     ],
   },
   studies: {
-    display: true, // set to false to hide this section
+    display: false, // set to false to hide this section
     title: "Estudos",
     institutions: [
       {
@@ -201,7 +224,7 @@ const about = {
     ],
   },
   technical: {
-    display: true,
+    display: false,
     title: "Competências",
     skills: [
       {
