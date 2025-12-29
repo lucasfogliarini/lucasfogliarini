@@ -1,1 +1,0 @@
-https://maps.google.com/?q=Porto+Alegre+-+RS

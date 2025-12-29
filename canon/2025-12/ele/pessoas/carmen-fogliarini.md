@@ -1,1 +1,0 @@
-Amo minha mãe que se chama Carmen Luiza Fogliarini Pedroso

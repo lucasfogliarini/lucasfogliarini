@@ -1,1 +1,0 @@
-Amo meu pai que se chama Edson Luiz Vasconcelos Pedroso
