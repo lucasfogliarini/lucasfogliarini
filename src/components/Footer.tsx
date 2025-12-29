@@ -26,11 +26,12 @@ export const Footer = () => {
           <Text onBackground="neutral-weak">© {currentYear} /</Text>
           <Text paddingX="4">{person.name}</Text>
           <Text onBackground="neutral-weak">
-            { /* Usage of this template requires attribution. Please don't remove the link to Once UI. */}            
+            +
+            { /* Usage of this template requires attribution. Please don't remove the link to Once UI. */}
             <SmartLink
-              href="https://once-ui.com/products/magic-portfolio"
+              href="https://lorant.one/invite"
             >
-              Magic Portfolio
+              Lorant Club
             </SmartLink>
           </Text>
         </Text>

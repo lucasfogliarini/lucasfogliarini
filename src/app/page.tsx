@@ -1,10 +1,6 @@
-import React from "react";
-
 import { Heading, Flex, Text, Button, Avatar, RevealFx, Column, Badge, Row, Meta, Schema } from "@once-ui-system/core";
-import { home, about, person, newsletter, baseURL, routes } from "@/resources";
-import { Mailchimp } from "@/components";
+import { home, about, person, work, baseURL } from "@/resources";
 import { Projects } from "@/components/projects/Projects";
-import { Repositories } from "@/components/repositories/Repositories";
 
 export default function Home() {
   return (
@@ -70,7 +66,7 @@ export default function Home() {
       <RevealFx translateY="16" delay={0.6}>
         <Column fillWidth gap="l">
           <Heading as="h2" wrap="balance">
-            Bora!?
+            {work.label}
           </Heading>
           <Projects range={[1, 3]} />
         </Column>

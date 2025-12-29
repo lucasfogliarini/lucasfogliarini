@@ -34,22 +34,22 @@ export default function Blog() {
       <p>{events.description}</p>
       <br />
       <Button
-        id="bora"
+        id="sub"
         data-border="rounded"
         variant="secondary"
-        href="https://bora.host"
+        href={events.subLink}
         size="m"
-      >Visite o site</Button>
+      >{events.subText}</Button>
       <Button
-        id="luma"
+        id="pub"
         data-border="rounded"
-        href="https://lu.ma/bora"
+        href={events.pubLink}
         size="m"
         arrowIcon
-      >Assine a agenda do Bora</Button>
+      >{events.pubText}</Button>
       <br />
       <iframe
-        src="https://lu.ma/embed/calendar/cal-GL6rhFY3X6D1PY6/events"
+        src={events.calendarEvents}
         width="600"
         height="450"
         style={{ border: "1px solid #bfcbda88", borderRadius: "4px" }}

@@ -1,15 +1,19 @@
-import { Logo } from "@once-ui-system/core";
-
 const person = {
   firstName: "Lucas",
   lastName: "Fogliarini",
   get name() {
     return `${this.firstName} ${this.lastName}`;
   },
-  role: "Arquiteto e Engenheiro de Software",
-  //Which land do you want to live in?
-  headline: "Em qual terra você quer morar?",
-  subline: "Habilitando famílias, construtores e mestres para edificar casas autossustentáveis, alinhadas à natureza, à técnica e à responsabilidade com o futuro.",
+  currentProject: "Bora Morar",
+  role: "Arquiteto e Engenheiro de Soluções",
+  h1: "Em qual terra você quer morar?",
+  //h1: "Which land do you want to live in?"
+
+  h2: "Habilitando educação financeira e acesso ao crédito para que famílias realizem o sonho da moradia própria, de forma responsável, sustentável e consciente no presente, em harmonia com a natureza, a sociedade e o futuro.",
+  //h2: "Habilitando educação financeira e acesso ao crédito para que famílias realizem o sonho da moradia própria, de forma responsável, sustentável e consciente no presente, em harmonia com a natureza, a sociedade e o futuro.",
+  //h2: "Promovemos educação financeira e acesso responsável ao crédito, permitindo que famílias realizem o sonho da moradia própria com consciência no presente, sustentabilidade e compromisso com o futuro, a natureza e a sociedade.",
+  //h2: "Ajudamos famílias a transformar o sonho da moradia própria em realidade por meio de educação financeira e crédito consciente, respeitando o presente, o futuro, a natureza e a sociedade.",
+  //h2: "Habilitamos famílias com educação financeira e soluções de crédito responsável para a conquista da moradia própria, promovendo sustentabilidade econômica, social e ambiental no presente e no futuro.",
   avatar: "/images/avatar.jpg",
   email: "lucasfogliarini@gmail.com",
   locationTimeZone: "America/Sao_Paulo",// Expecting the IANA time zone identifier, e.g., 'Europe/Vienna'
@@ -58,17 +62,17 @@ const home = {
   path: "/",
   image: "/images/og/bora.png",
   label: "Home",
-  title: `${person.name}, ${person.headline}`,
-  description: `${person.subline}`,
-  headline: <>{person.headline}</>,
+  title: `${person.name}, ${person.h1}`,
+  description: `${person.h2}`,
+  headline: <>{person.h1}</>,
   featured: {
     display: true,
-    title: <>Projeto atual: <strong className="ml-4">Banco Carrefour</strong></>,
-    href: "/work/banco-carrefour",
+    title: <>Trabalhando no <strong className="ml-4">{person.currentProject}</strong></>,
+    href: "/work/BoraMorar",
   },
   subline: (
     <>
-      {person.subline}
+      {person.h2}
     </>
   ),
 };
@@ -256,17 +260,22 @@ const about = {
 
 const work = {
   path: "/work",
-  label: "Projetos",
-  title: `Projetos – ${person.name}`,
+  label: "Bora?!",
+  title: `Bora? – ${person.name}`,
   description: `Projetos de ${person.name}`,
 };
 
 const events = {
   path: "/events",
   label: "Encontros",
-  title: "Bora",
-  subtitle: "Conectando pessoas com propósito para inovar, educar e transformar o mundo em parceria com a Igreja Brasa e o PUC Angels.",
-  description: ''//`Conectando pessoas com propósito para inovar, educar e transformar o mundo em parceria com a rede PUC Angels.`,
+  title: "Bora Encontros",
+  subtitle: "Conectando famílias, construtores e agentes financeiros para viabilizar moradias autossustentáveis, responsáveis e alinhadas ao futuro.",
+  description: '',
+  calendarEvents: "https://lu.ma/embed/calendar/cal-GL6rhFY3X6D1PY6/events",
+  subLink: "https://lu.ma/bora",
+  subText: "Receber convites de palestras e debates por e-mail",
+  pubLink: "https://luma.com/create?calendar=cal-GL6rhFY3X6D1PY6",
+  pubText: "Palestrar ou Debater presencialmente ou virtualmente"
 };
 
 const blog = {
