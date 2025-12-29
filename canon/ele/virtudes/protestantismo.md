@@ -1,1 +1,1 @@
-Viva Jesus Cristo e as teses de Martinho Lutero!
+Viva Jesus Cristo, Martinho Lutero e seus seguidores!

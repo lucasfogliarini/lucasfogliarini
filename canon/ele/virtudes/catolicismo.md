@@ -1,1 +1,1 @@
-Viva Jesus Cristo e seus apóstolos!
+Viva Jesus Cristo, apóstolo Pedro e seus seguidores!
