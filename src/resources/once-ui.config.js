@@ -1,16 +1,8 @@
 import { home } from "./content";
 
 // IMPORTANT: Replace with your own domain address - it's used for SEO in meta tags and schema
-const baseURL = "https://lucasfogliarini.bora.host";
+const baseURL = "https://bora.earth";
 
-const routes = {
-  "/": true,
-  "/about": true,
-  "/work": true,
-  "/events": true,
-  "/blog": false,
-  "/gallery": false,
-};
 
 const display = {
   header: true,
