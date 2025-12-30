@@ -70,7 +70,7 @@ export default async function Project({
       />
       <Column maxWidth="xs" gap="16">
         <Button data-border="rounded" href="/work" variant="tertiary" weight="default" size="s" prefixIcon="chevronLeft">
-          Projetos
+          Voltar
         </Button>
         <Heading variant="display-strong-s">{repo.name}</Heading>
       </Column>
@@ -93,6 +93,13 @@ export default async function Project({
           <Text>README not found.</Text>
         )}
       </Column>
+      <Button
+        id="bora"
+        data-border="rounded"
+        href={repo.homepage ?? repo.html_url}
+        size="l"
+        arrowIcon
+      >Bora ...</Button>
       <ScrollToHash />
     </Column>
   );

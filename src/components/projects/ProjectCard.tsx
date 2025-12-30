@@ -99,7 +99,7 @@ export const ProjectCard: React.FC<ProjectCardProps> = ({
                   style={{ margin: "0", width: "fit-content" }}
                   href={site}
                 >
-                  <Text variant="body-default-s">Participar</Text>
+                  <Text variant="body-default-s">Bora</Text>
                 </SmartLink>
               )}
               {github && (
