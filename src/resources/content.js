@@ -98,7 +98,7 @@ const about = {
     title: "Sobre mim",
     description: (
       <>
-        Sou movido por um sonho que une fé, responsabilidade e ação concreta. Estou sonhando, orando, arquitetando e me comunicando com pessoas comprometidas com os ensinamentos de Jesus Cristo para cuidar da terra da nossa nação — de forma consciente, sustentável e responsável com o presente e o futuro.
+        Sou movido por um sonho que une fé, responsabilidade e ação concreta. Estou sonhando, orando, arquitetando e me comunicando com seguidores de Jesus Cristo para cuidar da nossa terra de forma consciente, sustentável e responsável com o presente e o futuro.
         <br />
         <br />
         Minha atuação combina visão espiritual, pensamento sistêmico e execução prática. Busco integrar tecnologia, arquitetura, educação financeira e moradia sustentável como instrumentos de transformação social, sempre em harmonia com a criação e com as pessoas.
@@ -283,7 +283,7 @@ const about = {
 
 const work = {
   path: "/work",
-  label: "Bora?!",
+  label: "Bora?",
   title: `Bora? – ${person.name}`,
   description: `Projetos de ${person.name}`,
 };
