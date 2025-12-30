@@ -1,3 +1,4 @@
+const currentProjectName = "Bora Morar";
 const person = {
   firstName: "Lucas",
   lastName: "Fogliarini",
@@ -5,7 +6,7 @@ const person = {
     return `${this.firstName} ${this.lastName}`;
   },
   currentProject: {
-    name: "Bora Morar",
+    name: currentProjectName,
     href: "/work/BoraMorar",
     headline: "Em qual terra você quer morar?",
     //headline: "Which land do you want to live in?"
@@ -23,7 +24,7 @@ const person = {
   email: "lucasfogliarini@gmail.com",
   locationTimeZone: "America/Sao_Paulo",// Expecting the IANA time zone identifier, e.g., 'Europe/Vienna'
   location: "Porto Alegre - RS",
-  header: "Lucas Fogliarini",
+  header: currentProjectName,
   languages: ["Português", "Inglês"], // optional: Leave the array empty if you don't want to display languages
   description: {
     h1: "Sou movido por um sonho que une fé, responsabilidade e ação concreta. Estou sonhando, orando, arquitetando com Jesus e me comunicando com seus seguidores para cuidar da nossa terra de forma consciente, sustentável e responsável com o presente e o futuro.",

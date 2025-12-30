@@ -132,7 +132,7 @@ export default function About() {
                 <Icon paddingLeft="12" name="calendar" onBackground="brand-weak" />
                 <Flex paddingX="8">
                   <Link href={about.calendar.link} target="_blank">
-                    Agende uma conversa
+                    {about.calendar.label}
                   </Link>
                 </Flex>
                 <IconButton
@@ -158,26 +158,26 @@ export default function About() {
                 {social.map(
                   (item) =>
                     item.link && (
-                        <React.Fragment key={item.name}>
-                            <Button
-                                className="s-flex-hide"
-                                key={item.name}
-                                href={item.link}
-                                prefixIcon={item.icon}
-                                label={item.name}
-                                size="s"
-                                weight="default"
-                                variant="secondary"
-                            />
-                            <IconButton
-                                className="s-flex-show"
-                                size="l"
-                                key={`${item.name}-icon`}
-                                href={item.link}
-                                icon={item.icon}
-                                variant="secondary"
-                            />
-                        </React.Fragment>
+                      <React.Fragment key={item.name}>
+                        <Button
+                          className="s-flex-hide"
+                          key={item.name}
+                          href={item.link}
+                          prefixIcon={item.icon}
+                          label={item.name}
+                          size="s"
+                          weight="default"
+                          variant="secondary"
+                        />
+                        <IconButton
+                          className="s-flex-show"
+                          size="l"
+                          key={`${item.name}-icon`}
+                          href={item.link}
+                          icon={item.icon}
+                          variant="secondary"
+                        />
+                      </React.Fragment>
                     ),
                 )}
               </Flex>
