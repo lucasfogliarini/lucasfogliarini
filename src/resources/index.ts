@@ -14,12 +14,8 @@ export { person, social } from "./person";
 export { events } from "./events";
 export { work } from "./work";
 export { about } from "./about";
-
-export {
-  newsletter,
-  blog,
-  gallery,
-} from "./content";
+export { blog } from "./blog";
+export { gallery } from "./gallery";
 
 
 export { display, mailchimp, protectedRoutes, fonts, style, schema, sameAs, effects, dataStyle } from "./once-ui.config";
