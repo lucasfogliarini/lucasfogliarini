@@ -10,13 +10,12 @@ const routes = {
 
 export { routes, baseURL };
 export { home } from "./home";
-export { person } from "./person";
+export { person, social } from "./person";
 export { events } from "./events";
 export { work } from "./work";
 export { about } from "./about";
 
 export {
-  social,
   newsletter,
   blog,
   gallery,

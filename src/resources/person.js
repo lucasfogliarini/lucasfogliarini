@@ -17,6 +17,8 @@ const person = {
   },
   role: "Arquiteto e Engenheiro de Soluções",
   wa: "https://wa.me/5551992364249?text=Bora?!",
+  linkedin: "https://www.linkedin.com/in/lucasfogliarini",
+  github: "https://github.com/lucasfogliarini",
   avatar: "/images/avatar.jpg",
   email: "lucasfogliarini@gmail.com",
   locationTimeZone: "America/Sao_Paulo",// Expecting the IANA time zone identifier, e.g., 'Europe/Vienna'
@@ -30,4 +32,29 @@ const person = {
   }
 };
 
-export { person };
+const social = [
+  // Links are automatically displayed.
+  // Import new icons in /once-ui/icons.ts
+  {
+    name: "GitHub",
+    icon: "github",
+    link: person.github,
+  },
+  {
+    name: "LinkedIn",
+    icon: "linkedin",
+    link: person.linkedin,
+  },
+  {
+    name: "Threads",
+    icon: "threads",
+    link: "",
+  },
+  {
+    name: "Email",
+    icon: "email",
+    link: `mailto:${person.email}`,
+  },
+];
+
+export { person, social };
