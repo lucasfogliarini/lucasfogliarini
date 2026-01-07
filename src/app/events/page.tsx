@@ -40,13 +40,23 @@ export default function Blog() {
         href={events.subLink}
         size="m"
       >{events.subText}</Button>
+      <br />
       <Button
         id="pub"
         data-border="rounded"
+        variant="secondary"
         href={events.pubLink}
         size="m"
         arrowIcon
       >{events.pubText}</Button>
+      <br />
+      <Button
+        id="change"
+        data-border="rounded"
+        href={events.changeLink}
+        size="m"
+        arrowIcon
+      >{events.changeText}</Button>
       <br />
       <iframe
         src={events.calendarEvents}
