@@ -34,12 +34,12 @@ export default function Blog() {
       <p>{events.description}</p>
       <br />
       <Button
-        id="sub"
+        id="change"
         data-border="rounded"
-        variant="secondary"
-        href={events.subLink}
+        href={events.changeLink}
         size="m"
-      >{events.subText}</Button>
+        arrowIcon
+      >{events.changeText}</Button>
       <br />
       <Button
         id="pub"
@@ -51,12 +51,12 @@ export default function Blog() {
       >{events.pubText}</Button>
       <br />
       <Button
-        id="change"
+        id="sub"
         data-border="rounded"
-        href={events.changeLink}
+        variant="secondary"
+        href={events.subLink}
         size="m"
-        arrowIcon
-      >{events.changeText}</Button>
+      >{events.subText}</Button>
       <br />
       <iframe
         src={events.calendarEvents}
