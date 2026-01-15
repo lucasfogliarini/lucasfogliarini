@@ -3,7 +3,7 @@ import { person } from "./person";
 const about = {
   path: "/about",
   label: "Lucas Fogliarini",
-  title: `Sobre – ${person.name}`,
+  title: `Sobre`,
   description: `Encontre ${person.name}, ${person.role} de ${person.location}`,
   tableOfContent: {
     display: true,

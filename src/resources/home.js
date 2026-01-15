@@ -17,6 +17,8 @@ const home = {
       {person.currentProject.subline}
     </>
   ),
+  thereText: "Fica ali no ...",
+  thereLink: "https://wa.me/5551992364249?text=Fica ali no ...",
 };
 
 export { person, home };

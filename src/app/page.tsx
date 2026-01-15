@@ -39,6 +39,14 @@ export default function Home() {
             </Text>
           </RevealFx>
           <RevealFx paddingTop="12" delay={0.4} horizontal="start" paddingLeft="12">
+            <Flex gap="4" paddingRight="24">
+              <Button
+                id="there"
+                data-border="rounded"
+                size="m"
+                href={home.thereLink}>{home.thereText}
+              </Button>
+            </Flex>
             <Button
               id="about"
               data-border="rounded"
@@ -66,7 +74,7 @@ export default function Home() {
       <RevealFx translateY="16" delay={0.6}>
         <Column fillWidth gap="l">
           <Heading as="h2" wrap="balance">
-            {work.label}
+            {work.label} ... <a href={work.boraLink} target="_blank">{work.boraText}</a>
           </Heading>
           <Projects range={[1, 3]} />
         </Column>
