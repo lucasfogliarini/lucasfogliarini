@@ -5,7 +5,8 @@ Tudo começou no [dia 17 de julho de 1990 em Cachoeira do Sul](canon/1990-07/17.
 
 # [Estou sonhando, orando, arquitetando e me comunicando com os seguidores de Jesus Cristo para cuidar da terra da nação Dele.](https://lucasfogliarini.bora.earth)
 
-#### [Repositório Principal](https://github.com/lucasfogliarini/lucasfogliarini)  
-#### [Diagramas de Domínio](https://app.icepanel.io/landscapes/v3MTVXKMPjCfg4LaPENe/versions/latest/overview?domain=IsGTyragGe)
+#### [Repositório Principal](https://github.com/lucasfogliarini/BoraMorarSystem)
+#### [@.bora.earth Landscape (share)](https://s.icepanel.io/5EJNqZk1BJKyQN/T4RR)
+#### [@.bora.earth Landscape (edit)](https://app.icepanel.io/landscapes/v3MTVXKMPjCfg4LaPENe/)
 
 ##### [Experience de Ludovico Einaudi](https://open.spotify.com/track/1BncfTJAWxrsxyT9culBrj)
