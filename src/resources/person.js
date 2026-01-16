@@ -7,7 +7,8 @@ const person = {
   currentProject: {
     name: "Carrefour Soluções",
     href: "/work/CarrefourSolucoes",
-    headline: "Onde fica o lar que você quer morar pra sempre?",
+    headline: "Onde fica o lar que você quer deixar perfeito para morar?",
+    //headline: "Onde fica o lar que você quer morar pra sempre?",
     //headline: "Which land do you want to live in?"
     subline: "Realizando e promovendo estudos, palestras, entrevistas e fóruns que conectam pessoas interessadas em carreira, finanças, moradia, filosofia, arquitetura e responsabilidade, com foco em um futuro mais inteligente e consciente.",
     //subline: "Habilitando educação financeira e acesso ao crédito para que famílias realizem o sonho da moradia própria, de forma responsável, sustentável e consciente no presente, em harmonia com a natureza, a sociedade e o futuro.",
